@@ -1,0 +1,6725 @@
+[
+  {
+    "pmid": "32144194",
+    "title": "p53, cancer and the immune response",
+    "first_author": "J. Blagih",
+    "year": 2020,
+    "citations": 256,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32722796",
+    "title": "Gain-of-function mutant p53 in cancer progression and therapy",
+    "first_author": "Cen Zhang",
+    "year": 2020,
+    "citations": 250,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-28"
+  },
+  {
+    "pmid": "32741700",
+    "title": "Targeting p53 for the treatment of cancer.",
+    "first_author": "M. Duffy",
+    "year": 2020,
+    "citations": 274,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-30"
+  },
+  {
+    "pmid": "31952783",
+    "title": "Mutant p53 on the Path to Metastasis.",
+    "first_author": "Qiaosi Tang",
+    "year": 2020,
+    "citations": 124,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "33182266",
+    "title": "The Regulation of Ferroptosis by Tumor Suppressor p53 and its Pathway",
+    "first_author": "Juan Liu",
+    "year": 2020,
+    "citations": 203,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32404993",
+    "title": "p53: 800 million years of evolution and 40 years of discovery",
+    "first_author": "A. Levine",
+    "year": 2020,
+    "citations": 600,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-13"
+  },
+  {
+    "pmid": "32414156",
+    "title": "P53: A Guardian of Immunity Becomes Its Saboteur through Mutation",
+    "first_author": "A. D. Agupitan",
+    "year": 2020,
+    "citations": 85,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "33007410",
+    "title": "Targeting the p53-MDM2 pathway for neuroblastoma therapy: Rays of hope.",
+    "first_author": "Atif Zafar",
+    "year": 2020,
+    "citations": 84,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-29"
+  },
+  {
+    "pmid": "32182711",
+    "title": "Role of p53 in the Regulation of Cellular Senescence",
+    "first_author": "M. Mijit",
+    "year": 2020,
+    "citations": 470,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "33312337",
+    "title": "p53: A Key Protein That Regulates Pulmonary Fibrosis",
+    "first_author": "Qi Wu",
+    "year": 2020,
+    "citations": 55,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-29"
+  },
+  {
+    "pmid": "33179140",
+    "title": "The regulatory roles of p53 in cardiovascular health and disease",
+    "first_author": "Hongbo Men",
+    "year": 2020,
+    "citations": 104,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-11"
+  },
+  {
+    "pmid": "31685430",
+    "title": "Metabolic functions of the tumor suppressor p53: Implications in normal physiology, metabolic disorders, and cancer",
+    "first_author": "M. Lacroix",
+    "year": 2019,
+    "citations": 272,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-10-18"
+  },
+  {
+    "pmid": "32947864",
+    "title": "RBM10, a New Regulator of p53",
+    "first_author": "J. Jung",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "33614491",
+    "title": "Mutant p53 as a Regulator and Target of Autophagy",
+    "first_author": "Yonghua Shi",
+    "year": 2021,
+    "citations": 58,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-02-03"
+  },
+  {
+    "pmid": "32846356",
+    "title": "P53 in the impaired lungs",
+    "first_author": "Mohammad A. Uddin",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-19"
+  },
+  {
+    "pmid": "31223076",
+    "title": "p53: An Attractive Therapeutic Target for Cancer.",
+    "first_author": "K. R. Patel",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-30"
+  },
+  {
+    "pmid": "33130194",
+    "title": "Current developments of targeting the p53 signaling pathway for cancer treatment.",
+    "first_author": "Jing Huang",
+    "year": 2020,
+    "citations": 102,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-29"
+  },
+  {
+    "pmid": "32521648",
+    "title": "Mutant p53 as an Antigen in Cancer Immunotherapy",
+    "first_author": "N. Sobhani",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33016796",
+    "title": "Targeting p53 in chronic lymphocytic leukemia",
+    "first_author": "R. Moia",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-05"
+  },
+  {
+    "pmid": "31880200",
+    "title": "P53 versus inflammation: an update",
+    "first_author": "Khadeja-tul Kubra",
+    "year": 2019,
+    "citations": 33,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-12-27"
+  },
+  {
+    "pmid": "31917206",
+    "title": "BRCA1/P53: Two strengths in cancer chemoprevention.",
+    "first_author": "L. Raimundo",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-06"
+  },
+  {
+    "pmid": "32595984",
+    "title": "The role of MDM2\u2013p53 axis dysfunction in the hepatocellular carcinoma transformation",
+    "first_author": "Hui Cao",
+    "year": 2020,
+    "citations": 54,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-19"
+  },
+  {
+    "pmid": "32521808",
+    "title": "p53-PHLDA3-Akt Network: The Key Regulators of Neuroendocrine Tumorigenesis",
+    "first_author": "Yu Chen",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33159515",
+    "title": "Mutant p53 oncogenicity - dominant-negative or gain-of-function?",
+    "first_author": "Yan Stein",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-07"
+  },
+  {
+    "pmid": "33240819",
+    "title": "Mutant p53 in Cancer Progression and Targeted Therapies",
+    "first_author": "Gao\u2011Chun Zhu",
+    "year": 2020,
+    "citations": 191,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-06"
+  },
+  {
+    "pmid": "32723563",
+    "title": "SPARC-p53: The double agents of cancer.",
+    "first_author": "Denise Camacho",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-21"
+  },
+  {
+    "pmid": "31603660",
+    "title": "Prion-like p53 amyloids in cancer.",
+    "first_author": "Ambuja Navalkar",
+    "year": 2020,
+    "citations": 42,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-21"
+  },
+  {
+    "pmid": "33505918",
+    "title": "Cancer Stemness: p53 at the Wheel",
+    "first_author": "Dishari Ghatak",
+    "year": 2021,
+    "citations": 50,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-01-11"
+  },
+  {
+    "pmid": "32033163",
+    "title": "How p53 Molecules Solve the Target DNA Search Problem: A Review",
+    "first_author": "K. Kamagata",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31952115",
+    "title": "P53 and The Immune Response: 40 Years of Exploration\u2014A Plan for the Future",
+    "first_author": "A. Levine",
+    "year": 2020,
+    "citations": 84,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32079264",
+    "title": "p53-Related Transcription Targets of TAp73 in Cancer Cells\u2014Bona Fide or Distorted Reality?",
+    "first_author": "Chao Wang",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "35117546",
+    "title": "The MDM2/MDMX/p53 axis in the adaptive stress response",
+    "first_author": "Bing Wang",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine",
+      "Physics"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32075247",
+    "title": "p53\u2019s Extended Reach: The Mutant p53 Secretome",
+    "first_author": "Evangelos Pavlakis",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32890739",
+    "title": "The P53/microRNA network: a potential tumor suppressor with a role in anticancer therapy.",
+    "first_author": "J. Sargolzaei",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-02"
+  },
+  {
+    "pmid": "32111081",
+    "title": "Mutant p53-Associated Molecular Mechanisms of ROS Regulation in Cancer Cells",
+    "first_author": "M. Cordani",
+    "year": 2020,
+    "citations": 111,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-26"
+  },
+  {
+    "pmid": "32660118",
+    "title": "The Janus Face of p53-Targeting Ubiquitin Ligases",
+    "first_author": "Qian Hao",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "34179310",
+    "title": "Tumor suppressor p53 cross-talks with TRIM family proteins",
+    "first_author": "Juan Liu",
+    "year": 2020,
+    "citations": 43,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-16"
+  },
+  {
+    "pmid": "32312843",
+    "title": "The p53 Saga: Early Steps in the Development of Tumor Immunotherapy",
+    "first_author": "A. Deleo",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-20"
+  },
+  {
+    "pmid": "31969558",
+    "title": "TNAP inhibition attenuates cardiac fibrosis induced by myocardial infarction through deactivating TGF-\u03b21/Smads and activating P53 signaling pathways",
+    "first_author": "Lei Gao",
+    "year": 2020,
+    "citations": 61,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "31691903",
+    "title": "Functions of p53 in pluripotent stem cells",
+    "first_author": "Xuemei Fu",
+    "year": 2019,
+    "citations": 60,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-11-06"
+  },
+  {
+    "pmid": "32049643",
+    "title": "Small-molecule modulation of p53 protein-protein interactions",
+    "first_author": "A. Kuusk",
+    "year": 2019,
+    "citations": 12,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2019-12-01"
+  },
+  {
+    "pmid": "33276182",
+    "title": "Therapeutic potential of p53 reactivation in cervical cancer.",
+    "first_author": "Xiangxuan Zhao",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-24"
+  },
+  {
+    "pmid": "32260447",
+    "title": "The Status of p53 Oligomeric and Aggregation States in Cancer",
+    "first_author": "Guilherme A. P. de Oliveira",
+    "year": 2020,
+    "citations": 44,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "33371351",
+    "title": "STAT3 and p53: Dual Target for Cancer Therapy",
+    "first_author": "Thu-Huyen Pham",
+    "year": 2020,
+    "citations": 46,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32980466",
+    "title": "P53 in skin cancer: From a master player to a privileged target for prevention and therapy.",
+    "first_author": "Joana B Loureiro",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-24"
+  },
+  {
+    "pmid": "33112208",
+    "title": "HOPS and p53: thick as thieves in life and death",
+    "first_author": "Maria Agnese Della-Fazia",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-28"
+  },
+  {
+    "pmid": "33359084",
+    "title": "Gain-of-\"endocytic' function in mutant p53 cancer cells.",
+    "first_author": "Ashley M. Lakoduk",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-20"
+  },
+  {
+    "pmid": "32702755",
+    "title": "Diamond-Blackfan Anemia.",
+    "first_author": "L. D. Da Costa",
+    "year": 2020,
+    "citations": 48,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-23"
+  },
+  {
+    "pmid": "33113997",
+    "title": "Targeting P53 as a Future Strategy to Overcome Gemcitabine Resistance in Biliary Tract Cancers",
+    "first_author": "Chiao-En Wu",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-23"
+  },
+  {
+    "pmid": "32927018",
+    "title": "Non-Coding RNAs, Guardians of the p53 Galaxy.",
+    "first_author": "Song Chen",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-11"
+  },
+  {
+    "pmid": "33233599",
+    "title": "Integrative p53, micro-RNA and Cathepsin Protease Co-Regulatory Expression Networks in Cancer",
+    "first_author": "S. Soond",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "33297294",
+    "title": "The Intricate Role of p53 in Adipocyte Differentiation and Function",
+    "first_author": "Y. Lee",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "33256191",
+    "title": "Triangular Relationship between p53, Autophagy, and Chemotherapy Resistance",
+    "first_author": "Jingwen Xu",
+    "year": 2020,
+    "citations": 58,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-26"
+  },
+  {
+    "pmid": "32664576",
+    "title": "Ferroptosis in Liver Diseases: An Overview",
+    "first_author": "M. Capelletti",
+    "year": 2020,
+    "citations": 286,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "33644030",
+    "title": "Mutant p53 Gain-of-Function: Role in Cancer Development, Progression, and Therapeutic Approaches",
+    "first_author": "Eduardo Alvarado-Ortiz",
+    "year": 2021,
+    "citations": 143,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-02-11"
+  },
+  {
+    "pmid": "31536647",
+    "title": "Anti\u2010p53 autoantibody in blood as a diagnostic biomarker for colorectal cancer: A meta\u2010analysis",
+    "first_author": "Shuxia Liu",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "33218139",
+    "title": "The \u0394133p53 Isoforms, Tuners of the p53 Pathway",
+    "first_author": "Sebastien M Joruiz",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32660739",
+    "title": "A p53-JAK-STAT connection involved in myeloproliferative neoplasm pathogenesis and progression to secondary acute myeloid leukemia.",
+    "first_author": "H. Goyal",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-03"
+  },
+  {
+    "pmid": "33213502",
+    "title": "Commensal microbes and p53 in cancer progression",
+    "first_author": "I. Celardo",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-19"
+  },
+  {
+    "pmid": "32190175",
+    "title": "Functional Role of p53 in the Regulation of Chemical-Induced Oxidative Stress",
+    "first_author": "Xiaoyi Liu",
+    "year": 2020,
+    "citations": 61,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-28"
+  },
+  {
+    "pmid": "32823757",
+    "title": "Dietary Flavonoids in p53\u2014Mediated Immune Dysfunctions Linking to Cancer Prevention",
+    "first_author": "S. Siddiqui",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "32050651",
+    "title": "Alternative Mechanisms of p53 Action During the Unfolded Protein Response",
+    "first_author": "Leila Fus\u00e9e",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32084459",
+    "title": "SIRT1 and aging related signaling pathways",
+    "first_author": "Cui Chen",
+    "year": 2020,
+    "citations": 524,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-18"
+  },
+  {
+    "pmid": "32079237",
+    "title": "Gain-of-Function Mutations in p53 in Cancer Invasiveness and Metastasis",
+    "first_author": "Katarzyna A. Roszkowska",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32204575",
+    "title": "The Impact of Mutant p53 in the Non-Coding RNA World",
+    "first_author": "Silvia Di Agostino",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32873579",
+    "title": "p53 tetramerization: at the center of the dominant-negative effect of mutant p53",
+    "first_author": "Jovanka Gencel-Augusto",
+    "year": 2020,
+    "citations": 83,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "33322746",
+    "title": "CHEK2 Germline Variants in Cancer Predisposition: Stalemate Rather than Checkmate",
+    "first_author": "Lenka Stola\u0159ov\u00e1",
+    "year": 2020,
+    "citations": 157,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "33396576",
+    "title": "Molecular and Biochemical Techniques for Deciphering p53-MDM2 Regulatory Mechanisms",
+    "first_author": "Konstantinos Karakostis",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-30"
+  },
+  {
+    "pmid": "32281696",
+    "title": "The highly interrelated GHRH, p53, and Hsp90 universe",
+    "first_author": "N. Barabutis",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-13"
+  },
+  {
+    "pmid": "33297928",
+    "title": "MicroRNA-mutant P53 crosstalk in chemoresistance: a hint to monitor therapy outcome.",
+    "first_author": "Andrea Speciale",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-09"
+  },
+  {
+    "pmid": "32326087",
+    "title": "Recent Synthetic Approaches towards Small Molecule Reactivators of p53",
+    "first_author": "Jerson L. Silva",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32508294",
+    "title": "DNA damage checkpoint kinases in cancer",
+    "first_author": "Hannah L. Smith",
+    "year": 2020,
+    "citations": 244,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-08"
+  },
+  {
+    "pmid": "32029918",
+    "title": "Pterygium: new insights",
+    "first_author": "W. Chu",
+    "year": 2020,
+    "citations": 119,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-06"
+  },
+  {
+    "pmid": "33199193",
+    "title": "Life and Death Decision-Making by p53 and Implications for Cancer Immunotherapy.",
+    "first_author": "Yong Liu",
+    "year": 2020,
+    "citations": 45,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-13"
+  },
+  {
+    "pmid": "33069756",
+    "title": "P73: FROM THE P53 SHADOW TO A MAJOR PHARMACOLOGICAL TARGET IN ANTICANCER THERAPY.",
+    "first_author": "Helena Ramos",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-15"
+  },
+  {
+    "pmid": "32918225",
+    "title": "Crosstalk Between Vitamin D and p53 Signaling in Cancer: An Update.",
+    "first_author": "J. Reichrath",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "33294126",
+    "title": "Posttranslational Modifications in Ferroptosis",
+    "first_author": "Xiang Wei",
+    "year": 2020,
+    "citations": 133,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-26"
+  },
+  {
+    "pmid": "32932978",
+    "title": "A Glance of p53 Functions in Brain Development, Neural Stem Cells, and Brain Cancer",
+    "first_author": "Yuqing Xiong",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "31691207",
+    "title": "Li\u2013Fraumeni syndrome heterogeneity",
+    "first_author": "P. Gargallo",
+    "year": 2019,
+    "citations": 31,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-05"
+  },
+  {
+    "pmid": "33348923",
+    "title": "Extracellular Vesicles: Messengers of p53 in Tumor\u2013Stroma Communication and Cancer Metastasis",
+    "first_author": "Evangelos Pavlakis",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32075132",
+    "title": "Follow the Mutations: Toward Class-Specific, Small-Molecule Reactivation of p53",
+    "first_author": "S. Loh",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32151151",
+    "title": "Reactive Oxygen Species Induced p53 Activation: DNA Damage, Redox Signaling, or Both?",
+    "first_author": "Tao Shi",
+    "year": 2020,
+    "citations": 115,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-03-10"
+  },
+  {
+    "pmid": "32944829",
+    "title": "The function and mechanism of ferroptosis in cancer",
+    "first_author": "Ying Wang",
+    "year": 2020,
+    "citations": 186,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-17"
+  },
+  {
+    "pmid": "32432959",
+    "title": "Emerging roles of long non-coding RNAs in the p53 network",
+    "first_author": "Abhinav K. Jain",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-20"
+  },
+  {
+    "pmid": "33272326",
+    "title": "The pleiotropic role of p53 in functional/dysfunctional neurons: focus on pathogenesis and diagnosis of Alzheimer\u2019s disease",
+    "first_author": "G. Abate",
+    "year": 2020,
+    "citations": 41,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-03"
+  },
+  {
+    "pmid": "32156064",
+    "title": "Recent Small-Molecule Inhibitors of the p53\u2013MDM2 Protein\u2013Protein Interaction",
+    "first_author": "A. Beloglazkina",
+    "year": 2020,
+    "citations": 42,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32974171",
+    "title": "Key Players in the Mutant p53 Team: Small Molecules, Gene Editing, Immunotherapy",
+    "first_author": "V. Chasov",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-18"
+  },
+  {
+    "pmid": "31112799",
+    "title": "Wild type- and mutant p53 proteins in mitochondrial dysfunction: emerging insights in cancer disease.",
+    "first_author": "G. Blandino",
+    "year": 2020,
+    "citations": 45,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31846532",
+    "title": "Incorporation of molecular characteristics into endometrial cancer management",
+    "first_author": "L. Vermij",
+    "year": 2019,
+    "citations": 228,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-12-17"
+  },
+  {
+    "pmid": "33253914",
+    "title": "Dysregulation of lysophospholipid signaling by p53 in malignant cells and the tumor microenvironment.",
+    "first_author": "Suechin Lee",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-27"
+  },
+  {
+    "pmid": "33374459",
+    "title": "Molecular Mechanisms of Colon Cancer Progression and Metastasis: Recent Insights and Advancements",
+    "first_author": "A. Malki",
+    "year": 2020,
+    "citations": 308,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-24"
+  },
+  {
+    "pmid": "33298896",
+    "title": "Regulation of p53 by the 14-3-3 protein interaction network: new opportunities for drug discovery in cancer",
+    "first_author": "M. Falcicchio",
+    "year": 2020,
+    "citations": 43,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-16"
+  },
+  {
+    "pmid": "32532965",
+    "title": "Regulating tumor suppressor genes: post-translational modifications",
+    "first_author": "Ling Chen",
+    "year": 2020,
+    "citations": 333,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-10"
+  },
+  {
+    "pmid": "32041464",
+    "title": "Harnessing the vulnerabilities of p53 mutants in lung cancer \u2013 Focusing on the proteasome: a new trick for an old foe?",
+    "first_author": "Eziafa I Oduah",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-10"
+  },
+  {
+    "pmid": "31610154",
+    "title": "Detection of tumor suppressor protein p53 with special emphasis on biosensors: A review.",
+    "first_author": "Deepa.",
+    "year": 2019,
+    "citations": 29,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32062315",
+    "title": "NRF2, p53, and p16: Predictive biomarkers to stratify human papillomavirus associated head and neck cancer patients for de-escalation of cancer therapy.",
+    "first_author": "P. Ramesh",
+    "year": 2020,
+    "citations": 39,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31841768",
+    "title": "Towards the overcoming of anticancer drug resistance mediated by p53 mutations.",
+    "first_author": "Xin Cao",
+    "year": 2019,
+    "citations": 134,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-30"
+  },
+  {
+    "pmid": "33266503",
+    "title": "Making Connections: p53 and the Cathepsin Proteases as Co-Regulators of Cancer and Apoptosis",
+    "first_author": "S. Soond",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "33505920",
+    "title": "Amplifying Tumor\u2013Stroma Communication: An Emerging Oncogenic Function of Mutant p53",
+    "first_author": "Valeria Capaci",
+    "year": 2021,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-01-11"
+  },
+  {
+    "pmid": "31004736",
+    "title": "Anti-cancer effects of polyphenols via targeting p53 signaling pathway: updates and future directions.",
+    "first_author": "H. Khan",
+    "year": 2019,
+    "citations": 128,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32300595",
+    "title": "Targeting USP7-Mediated Deubiquitination of MDM2/MDMX-p53 Pathway for Cancer Therapy: Are We There Yet?",
+    "first_author": "Si-min Qi",
+    "year": 2020,
+    "citations": 103,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-02"
+  },
+  {
+    "pmid": "32606760",
+    "title": "The Role of Erastin in Ferroptosis and Its Prospects in Cancer Therapy",
+    "first_author": "Yuechen Zhao",
+    "year": 2020,
+    "citations": 320,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33327383",
+    "title": "Toward Cancer Diagnostics of the Tumor Suppressor p53 by Surface Enhanced Raman Spectroscopy",
+    "first_author": "A. Bizzarri",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Chemistry",
+      "Medicine",
+      "Computer Science"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32951572",
+    "title": "Applications of Recombinant Adenovirus-p53 Gene Therapy for Cancers in the Clinic in China.",
+    "first_author": "Yu-Dong Xia",
+    "year": 2020,
+    "citations": 39,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32218993",
+    "title": "Context is everything: extrinsic signalling and gain-of-function p53 mutants",
+    "first_author": "I. Amelio",
+    "year": 2020,
+    "citations": 46,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-23"
+  },
+  {
+    "pmid": "32989217",
+    "title": "Multiple myeloma current treatment algorithms",
+    "first_author": "S. Rajkumar",
+    "year": 2020,
+    "citations": 277,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "31991537",
+    "title": "Oncogenic RUNX3: A Link between p53 Deficiency and MYC Dysregulation",
+    "first_author": "Yuki Date",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-23"
+  },
+  {
+    "pmid": "33083021",
+    "title": "Attenuation of p53 mutant as an approach for treatment Her2-positive cancer",
+    "first_author": "O. Fedorova",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-10"
+  },
+  {
+    "pmid": "32917124",
+    "title": "The role of autophagy in targeted therapy for acute myeloid leukemia",
+    "first_author": "Wenxin Du",
+    "year": 2020,
+    "citations": 90,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-11"
+  },
+  {
+    "pmid": "32835132",
+    "title": "mTOR inhibition and p53 activation, microRNAs: The possible therapy against pandemic COVID-19",
+    "first_author": "M. J. Ramaiah",
+    "year": 2020,
+    "citations": 79,
+    "fields": [
+      "Biology"
+    ],
+    "publication_date": "2020-06-30"
+  },
+  {
+    "pmid": "33130332",
+    "title": "Chaperones and Ubiquitin Ligases Balance Mutant p53 Protein Stability in Esophageal and Other Digestive Cancers",
+    "first_author": "May San Martinho",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-29"
+  },
+  {
+    "pmid": "32387665",
+    "title": "Field Cancerization: Definition, epidemiology, risk factors, and outcomes.",
+    "first_author": "T. Willenbrink",
+    "year": 2020,
+    "citations": 131,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-06"
+  },
+  {
+    "pmid": "32145315",
+    "title": "The master regulators Myc and p53 cellular signaling and functions in polycystic kidney disease.",
+    "first_author": "A. Kurbegovic",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-04"
+  },
+  {
+    "pmid": "32619002",
+    "title": "Targeting Cellular Senescence in Cancer and Aging: Roles of p53 and its Isoforms.",
+    "first_author": "J. Beck",
+    "year": 2020,
+    "citations": 66,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-03"
+  },
+  {
+    "pmid": "31897662",
+    "title": "Potential oncogenic roles of mutant-p53-derived exosomes in the tumor\u2013host interaction of head and neck cancers",
+    "first_author": "Etti Ester Azulay",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-03"
+  },
+  {
+    "pmid": "33070220",
+    "title": "Oncogenic pathways activated by pro-inflammatory cytokines promote mutant p53 stability: clue for novel anticancer therapies",
+    "first_author": "G. D\u2019Orazi",
+    "year": 2020,
+    "citations": 44,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-17"
+  },
+  {
+    "pmid": "33194757",
+    "title": "Heterogeneity of TP53 Mutations and P53 Protein Residual Function in Cancer: Does It Matter?",
+    "first_author": "P. Monti",
+    "year": 2020,
+    "citations": 73,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-28"
+  },
+  {
+    "pmid": "32322927",
+    "title": "P53 vs NF-\u03baB: the role of nuclear factor-kappa B in the regulation of p53 activity and vice versa",
+    "first_author": "Giovanna Carr\u00e1",
+    "year": 2020,
+    "citations": 73,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-22"
+  },
+  {
+    "pmid": "33224889",
+    "title": "Beyond the Mevalonate Pathway: Control of Post-Prenylation Processing by Mutant p53",
+    "first_author": "Carla Borini Etichetti",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-05"
+  },
+  {
+    "pmid": "32660154",
+    "title": "Regulation of Adult Neurogenesis in Mammalian Brain",
+    "first_author": "M. Niklison-Chirou",
+    "year": 2020,
+    "citations": 115,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32996618",
+    "title": "Context is key: Understanding the regulation, functional control, and activities of the p53 tumour suppressor",
+    "first_author": "Anne H. Moxley",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-30"
+  },
+  {
+    "pmid": "33163298",
+    "title": "Comparing the Role of the p53 Gene and Telomerase Enzyme in \u2018Accelerated Aging Due to Cancer\u2019: A Literature Review",
+    "first_author": "Paramvijay Singh Dhalla",
+    "year": 2020,
+    "citations": 2,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32869798",
+    "title": "A balancing act: using small molecules for therapeutic intervention of the p53 pathway in cancer.",
+    "first_author": "Jessica J. Miller",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32094664",
+    "title": "The antitumorigenic roles of BRCA1\u2013BARD1 in DNA repair and replication",
+    "first_author": "M. Tarsounas",
+    "year": 2020,
+    "citations": 285,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-24"
+  },
+  {
+    "pmid": "32604993",
+    "title": "Title: Genetic Markers in Lung Cancer Diagnosis: A Review",
+    "first_author": "Katarzyna Wadowska",
+    "year": 2020,
+    "citations": 175,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-27"
+  },
+  {
+    "pmid": "32664542",
+    "title": "SOX2 and p53 Expression Control Converges in PI3K/AKT Signaling with Versatile Implications for Stemness and Cancer",
+    "first_author": "T. Schaefer",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "33202205",
+    "title": "Molecular Mechanisms and Function of the p53 Protein Family Member \u2013 p73",
+    "first_author": "G. Melino",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32372896",
+    "title": "Nrf2 and Ferroptosis: A New Research Direction for Neurodegenerative Diseases",
+    "first_author": "Xiaohua Song",
+    "year": 2020,
+    "citations": 456,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-21"
+  },
+  {
+    "pmid": "32296023",
+    "title": "The role of ubiquitination in tumorigenesis and targeted drug discovery",
+    "first_author": "Lu Deng",
+    "year": 2020,
+    "citations": 582,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-29"
+  },
+  {
+    "pmid": "32230926",
+    "title": "Implication of the p53-Related miR-34c, -125b, and -203 in the Osteoblastic Differentiation and the Malignant Transformation of Bone Sarcomas",
+    "first_author": "Camille Jacques",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-03-27"
+  },
+  {
+    "pmid": "32679166",
+    "title": "PERP-ing into diverse mechanisms of cancer pathogenesis: Regulation and role of the p53/p63 effector PERP.",
+    "first_author": "O. Roberts",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-14"
+  },
+  {
+    "pmid": "32429563",
+    "title": "PHLD Class Proteins: A Family of New Players in the p53 Network",
+    "first_author": "Taylor T Fuselier",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32560574",
+    "title": "Targeting KRAS Mutant Non-Small-Cell Lung Cancer: Past, Present and Future",
+    "first_author": "Iris Z. Uras",
+    "year": 2020,
+    "citations": 110,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32917730",
+    "title": "p63-related signaling at a glance",
+    "first_author": "M. Fisher",
+    "year": 2020,
+    "citations": 73,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32561872",
+    "title": "Genomic profiling in renal cell carcinoma",
+    "first_author": "N. Dizman",
+    "year": 2020,
+    "citations": 116,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-19"
+  },
+  {
+    "pmid": "33356822",
+    "title": "Inverse regulation of claudin-2 and -7 expression by p53 and hepatocyte nuclear factor 4\u03b1 in colonic MCE301 cells",
+    "first_author": "Chieko Hirota",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-23"
+  },
+  {
+    "pmid": "32061310",
+    "title": "TP53 Mutations and Outcomes in Breast Cancer: Reading beyond the Headlines.",
+    "first_author": "Ashkan Shahbandi",
+    "year": 2020,
+    "citations": 157,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32722415",
+    "title": "The Role of microRNAs in Organismal and Skin Aging",
+    "first_author": "M. Gerasymchuk",
+    "year": 2020,
+    "citations": 80,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-25"
+  },
+  {
+    "pmid": "32061868",
+    "title": "Melatonin inhibits apoptosis in mouse Leydig cells via the retinoic acid-related orphan nuclear receptor \u03b1/p53 pathway.",
+    "first_author": "Zhiqiang Li",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-13"
+  },
+  {
+    "pmid": "32971841",
+    "title": "The Undervalued Avenue to Reinstate Tumor Suppressor Functionality of the p53 Protein Family for Improved Cancer Therapy-Drug Repurposing",
+    "first_author": "J. Zawacka-Pankau",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-31"
+  },
+  {
+    "pmid": "32583791",
+    "title": "Phenolic compounds, saponins and alkaloids on cancer progression: emphasis on p53 expression and telomere length.",
+    "first_author": "S. Vakili",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-25"
+  },
+  {
+    "pmid": "32651541",
+    "title": "MDM2 inhibition: an important step forward in cancer therapy",
+    "first_author": "M. Konopleva",
+    "year": 2020,
+    "citations": 289,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-10"
+  },
+  {
+    "pmid": "32106407",
+    "title": "Deciphering the Mounting Complexity of the p53 Regulatory Network in Correlation to Long Non-Coding RNAs (lncRNAs) in Ovarian Cancer",
+    "first_author": "Sonali Pal",
+    "year": 2020,
+    "citations": 47,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-25"
+  },
+  {
+    "pmid": "32970929",
+    "title": "Role and mechanism of autophagy\u2010regulating factors in tumorigenesis and drug resistance",
+    "first_author": "R. Usman",
+    "year": 2020,
+    "citations": 92,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-24"
+  },
+  {
+    "pmid": "33244272",
+    "title": "Biomolecular Factors Represented by Bcl-2, p53, and Tumor-Infiltrating Lymphocytes Predict Response for Adjuvant Anthracycline Chemotherapy in Patients with Early Triple-Negative Breast Cancer",
+    "first_author": "X. Bacinschi",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32696682",
+    "title": "The biological function and the regulatory roles of wild-type p53-induced phosphatase 1 in immune system",
+    "first_author": "Lu Shi",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-20"
+  },
+  {
+    "pmid": "32176524",
+    "title": "Checkpoint Responses to DNA Double-Strand Breaks.",
+    "first_author": "D. Waterman",
+    "year": 2020,
+    "citations": 130,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-16"
+  },
+  {
+    "pmid": "33396077",
+    "title": "Different mechanisms of arsenic related signaling in cellular proliferation, apoptosis and neo-plastic transformation.",
+    "first_author": "Nandita Medda",
+    "year": 2021,
+    "citations": 104,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2021-01-15"
+  },
+  {
+    "pmid": "32778819",
+    "title": "Emerging mechanisms of cell competition",
+    "first_author": "N. Baker",
+    "year": 2020,
+    "citations": 167,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-10"
+  },
+  {
+    "pmid": "33320376",
+    "title": "Skin pigmentation and its control: From ultraviolet radiation to stem cells",
+    "first_author": "J. M. Yardman-Frank",
+    "year": 2020,
+    "citations": 148,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-15"
+  },
+  {
+    "pmid": "31359335",
+    "title": "Emerging roles of aerobic glycolysis in breast cancer",
+    "first_author": "Z. Wu",
+    "year": 2019,
+    "citations": 207,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-07-29"
+  },
+  {
+    "pmid": "32095167",
+    "title": "Colon Cancer: A Clinician\u2019s Perspective in 2019",
+    "first_author": "Monjur Ahmed",
+    "year": 2020,
+    "citations": 215,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32942096",
+    "title": "Drug-resistance in rheumatoid arthritis: the role of p53 gene mutations, ABC family transporters and personal factors.",
+    "first_author": "K. Zhang",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-14"
+  },
+  {
+    "pmid": "32397531",
+    "title": "Diagnostic and Prognostic Potential of Biomarkers CYFRA 21.1, ERCC1, p53, FGFR3 and TATI in Bladder Cancers",
+    "first_author": "Milena Matuszczak",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "31241783",
+    "title": "Key roles of Rho GTPases, YAP, and Mutant P53 in anti\u2010neoplastic effects of statins",
+    "first_author": "Lixia Ji",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31815681",
+    "title": "A lex naturalis delineates components of a human-specific, adrenal androgen-dependent, p53-mediated \u2018kill switch\u2019 tumor suppression mechanism",
+    "first_author": "J. Nyce",
+    "year": 2019,
+    "citations": 1,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-12-01"
+  },
+  {
+    "pmid": "32796711",
+    "title": "Cellular Responses to Platinum-Based Anticancer Drugs and UVC: Role of p53 and Implications for Cancer Therapy",
+    "first_author": "D. Murray",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "32411323",
+    "title": "Oxidative Stress and Dementia in Alzheimer's Patients: Effects of Synbiotic Supplementation",
+    "first_author": "Alyne Mendon\u00e7a Marques Ton",
+    "year": 2020,
+    "citations": 170,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-13"
+  },
+  {
+    "pmid": "33346102",
+    "title": "Genetic factors in the pathogenesis of ameloblastoma, dentigerous cyst and Odontogenic keratocyst.",
+    "first_author": "S. Ghafouri\u2010Fard",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-17"
+  },
+  {
+    "pmid": "32152485",
+    "title": "Lineage plasticity in cancer: a shared pathway of therapeutic resistance",
+    "first_author": "\u00c1. Quintanal-Villalonga",
+    "year": 2020,
+    "citations": 399,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-09"
+  },
+  {
+    "pmid": "32545208",
+    "title": "A Driver Never Works Alone\u2014Interplay Networks of Mutant p53, MYC, RAS, and Other Universal Oncogenic Drivers in Human Cancer",
+    "first_author": "M. Grzes",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "31558785",
+    "title": "Natural history of ovarian high-grade serous carcinoma from time effects of ovulation inhibition and progesterone clearance of p53-defective lesions",
+    "first_author": "Nayiyuan Wu",
+    "year": 2019,
+    "citations": 41,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-09-26"
+  },
+  {
+    "pmid": "32027978",
+    "title": "Role of the COP1 protein in cancer development and therapy.",
+    "first_author": "Yizuo Song",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-03"
+  },
+  {
+    "pmid": "32169099",
+    "title": "Low grade malignant eccrine spiradenoma of the vulva: case report, review of the literature and discussion about the role of p53 and HPV",
+    "first_author": "X. Catteau",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-14"
+  },
+  {
+    "pmid": "32746655",
+    "title": "An expert overview of emerging therapies for acute myeloid leukemia: novel small molecules targeting apoptosis, p53, transcriptional regulation and metabolism",
+    "first_author": "K. Saxena",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-04"
+  },
+  {
+    "pmid": "31857137",
+    "title": "Immunohistochemistry in the diagnosis and classification of neuroendocrine neoplasms: what can Brown do for you?",
+    "first_author": "A. Bellizzi",
+    "year": 2019,
+    "citations": 176,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-12-16"
+  },
+  {
+    "pmid": "32986498",
+    "title": "Venetoclax Plus Rituximab in Relapsed Chronic Lymphocytic Leukemia: 4-Year Results and Evaluation of Impact of Genomic Complexity and Gene Mutations From the MURANO Phase III Study",
+    "first_author": "A. Kater",
+    "year": 2020,
+    "citations": 172,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-28"
+  },
+  {
+    "pmid": "33293849",
+    "title": "Reactive Oxygen Species: Drivers of Physiological and Pathological Processes",
+    "first_author": "J. Checa",
+    "year": 2020,
+    "citations": 652,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "35005106",
+    "title": "The USP7 protein interaction network and its roles in tumorigenesis",
+    "first_author": "A. Al-Eidan",
+    "year": 2020,
+    "citations": 43,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32744147",
+    "title": "Cellular Senescence: Mechanisms, Morphology, and Mouse Models",
+    "first_author": "J. Beck",
+    "year": 2020,
+    "citations": 55,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-03"
+  },
+  {
+    "pmid": "32848804",
+    "title": "SIRT1 Activation by Natural Phytochemicals: An Overview",
+    "first_author": "Concetta Iside",
+    "year": 2020,
+    "citations": 221,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-07"
+  },
+  {
+    "pmid": "33228463",
+    "title": "Molecular Pathogenesis of Merkel Cell Carcinoma.",
+    "first_author": "J. Decaprio",
+    "year": 2020,
+    "citations": 69,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-23"
+  },
+  {
+    "pmid": "32111491",
+    "title": "Molecular Basis of the Beneficial Actions of Resveratrol.",
+    "first_author": "G. Repossi",
+    "year": 2020,
+    "citations": 81,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32098443",
+    "title": "How to Classify Pituitary Neuroendocrine Tumors (PitNET)s in 2020",
+    "first_author": "J. Trouillas",
+    "year": 2020,
+    "citations": 175,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31587329",
+    "title": "Targeting MDM2 for novel molecular therapy: Beyond oncology",
+    "first_author": "Wei Wang",
+    "year": 2020,
+    "citations": 76,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "33505405",
+    "title": "Function and Regulation of Nuclear DNA Sensors During Viral Infection and Tumorigenesis",
+    "first_author": "Fan Zhang",
+    "year": 2021,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-01-11"
+  },
+  {
+    "pmid": "32227259",
+    "title": "Correlation between IDH, ATRX, and TERT promoter mutations in glioma",
+    "first_author": "S. Ohba",
+    "year": 2020,
+    "citations": 52,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-29"
+  },
+  {
+    "pmid": "32050524",
+    "title": "Aristolochic Acid-Induced Nephrotoxicity: Molecular Mechanisms and Potential Protective Approaches",
+    "first_author": "Etienne Empweb Anger",
+    "year": 2020,
+    "citations": 89,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32226301",
+    "title": "Circulating tumor DNA as an emerging liquid biopsy biomarker for early diagnosis and therapeutic monitoring in hepatocellular carcinoma",
+    "first_author": "Xiaolin Wu",
+    "year": 2020,
+    "citations": 115,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-05"
+  },
+  {
+    "pmid": "33198356",
+    "title": "Current Status and Application of Metformin for Prostate Cancer: A Comprehensive Review",
+    "first_author": "Hyun Kyu Ahn",
+    "year": 2020,
+    "citations": 66,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "31989508",
+    "title": "Signaling pathways in Rhabdomyosarcoma invasion and metastasis",
+    "first_author": "Farah Ramadan",
+    "year": 2020,
+    "citations": 56,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-27"
+  },
+  {
+    "pmid": "33371494",
+    "title": "Chromosome Instability in Fanconi Anemia: From Breaks to Phenotypic Consequences",
+    "first_author": "Benilde Garc\u00eda-de-Teresa",
+    "year": 2020,
+    "citations": 53,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32598859",
+    "title": "Antitumor effects of icaritin and the molecular mechanisms.",
+    "first_author": "Canjing Zhang",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32093590",
+    "title": "Granzymes and Mitochondria",
+    "first_author": "D. B. Kiselevsky",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "33601000",
+    "title": "Myricetin inhibits TNF-\u03b1-induced inflammation in A549 cells via the SIRT1/NF-\u03baB pathway.",
+    "first_author": "Min Chen",
+    "year": 2021,
+    "citations": 81,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-02-15"
+  },
+  {
+    "pmid": "32382138",
+    "title": "Cancer and Alzheimer\u2019s disease inverse relationship: an age-associated diverging derailment of shared pathways",
+    "first_author": "C. Lanni",
+    "year": 2020,
+    "citations": 98,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-07"
+  },
+  {
+    "pmid": "32481484",
+    "title": "CDK-Independent and PCNA-Dependent Functions of p21 in DNA Replication",
+    "first_author": "S. Mansilla",
+    "year": 2020,
+    "citations": 95,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-28"
+  },
+  {
+    "pmid": "32518522",
+    "title": "The role of CDC25C in cell cycle regulation and clinical cancer therapy: a systematic review",
+    "first_author": "Kai Liu",
+    "year": 2020,
+    "citations": 233,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-03"
+  },
+  {
+    "pmid": "32812335",
+    "title": "High\u2010level MYC expression associates with poor survival in patients with acute myeloid leukemia and collaborates with overexpressed p53 in leukemic transformation in patients with myelodysplastic syndrome",
+    "first_author": "Linlin Gao",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-19"
+  },
+  {
+    "pmid": "31922193",
+    "title": "Lessons from cavin-1 deficiency.",
+    "first_author": "Libin Liu",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-10"
+  },
+  {
+    "pmid": "33087281",
+    "title": "Roles for 53BP1 in the repair of radiation-induced DNA double strand breaks.",
+    "first_author": "A. Shibata",
+    "year": 2020,
+    "citations": 89,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "34185300",
+    "title": "Tumor Microenvironment in Penile Cancer.",
+    "first_author": "M. Walter",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32104088",
+    "title": "The Emerging Roles of miR-125b in Cancers",
+    "first_author": "Ying Wang",
+    "year": 2020,
+    "citations": 95,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32793396",
+    "title": "Emerging role of FBXO22 in carcinogenesis",
+    "first_author": "Jiangting Cheng",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-27"
+  },
+  {
+    "pmid": "32603670",
+    "title": "USP7 manipulation by viral proteins.",
+    "first_author": "Anna Bojagora",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-27"
+  },
+  {
+    "pmid": "31513848",
+    "title": "Cell Competition and Tumor Heterogeneity.",
+    "first_author": "Taylor M. Parker",
+    "year": 2020,
+    "citations": 41,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32580485",
+    "title": "HERC Ubiquitin Ligases in Cancer",
+    "first_author": "Joan Sala-Gaston",
+    "year": 2020,
+    "citations": 39,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32100402",
+    "title": "Ferroptosis: Final destination for cancer?",
+    "first_author": "Zeng Ye",
+    "year": 2020,
+    "citations": 93,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-25"
+  },
+  {
+    "pmid": "32759846",
+    "title": "Post-Translational Regulation of ARF: Perspective in Cancer",
+    "first_author": "Jinho Seo",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "32999003",
+    "title": "Prognostic Integrated Image-Based Immune and Molecular Profiling in Early-Stage Endometrial Cancer",
+    "first_author": "N. Horeweg",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-30"
+  },
+  {
+    "pmid": "33170209",
+    "title": "Fuzzy protein theory for disordered proteins",
+    "first_author": "M. Fuxreiter",
+    "year": 2017,
+    "citations": 29,
+    "fields": [
+      "Medicine",
+      "Mathematics",
+      "Physics"
+    ],
+    "publication_date": "2017-03-29"
+  },
+  {
+    "pmid": "32089220",
+    "title": "Targeting TP53 Mutations in Myelodysplastic Syndromes.",
+    "first_author": "A. Hunter",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "31972727",
+    "title": "Immunobiology of Merkel cell carcinoma.",
+    "first_author": "M. Samimi",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-16"
+  },
+  {
+    "pmid": "31871108",
+    "title": "Effect of Vitamin D on Relapse-Free Survival in a Subgroup of Patients with p53 Protein\u2013Positive Digestive Tract Cancer: A Post Hoc Analysis of the AMATERASU Trial",
+    "first_author": "Taisuke Akutsu",
+    "year": 2019,
+    "citations": 12,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-12-23"
+  },
+  {
+    "pmid": "32295632",
+    "title": "Sex differences in cancer mechanisms",
+    "first_author": "J. Rubin",
+    "year": 2020,
+    "citations": 244,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-15"
+  },
+  {
+    "pmid": "32450085",
+    "title": "Regulation of cellular senescence by microRNAs",
+    "first_author": "Xingjie Ma",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-22"
+  },
+  {
+    "pmid": "32642788",
+    "title": "RBM38 in cancer: role and mechanism",
+    "first_author": "C. Zou",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-08"
+  },
+  {
+    "pmid": "32034707",
+    "title": "Adenosine Signaling in Glioma Cells.",
+    "first_author": "S. Ceruti",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "31884567",
+    "title": "Molecular crosstalk between cancer and neurodegenerative diseases",
+    "first_author": "Jiyeon Seo",
+    "year": 2019,
+    "citations": 88,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-12-28"
+  },
+  {
+    "pmid": "32545659",
+    "title": "Nucleophosmin 1 Mutations in Acute Myeloid Leukemia",
+    "first_author": "Jabra Zarka",
+    "year": 2020,
+    "citations": 51,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "31966039",
+    "title": "Biology and pathogenesis of human osteosarcoma",
+    "first_author": "Judson Welber Ver\u00edssimo de Azevedo",
+    "year": 2019,
+    "citations": 114,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-12-18"
+  },
+  {
+    "pmid": "32945519",
+    "title": "GAS5-mediated regulation of cell signaling",
+    "first_author": "Yang Zhou",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-19"
+  },
+  {
+    "pmid": "32010617",
+    "title": "Role of Sirtuins in Tumor Angiogenesis",
+    "first_author": "Lincy Edatt",
+    "year": 2020,
+    "citations": 40,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-17"
+  },
+  {
+    "pmid": "32139012",
+    "title": "Tracking myeloma tumor DNA in peripheral blood.",
+    "first_author": "J. Waldschmidt",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32738522",
+    "title": "Aurora kinases and DNA damage response.",
+    "first_author": "H. Ma",
+    "year": 2020,
+    "citations": 46,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-23"
+  },
+  {
+    "pmid": "31173893",
+    "title": "Phosphatidylinositol synthesis at the endoplasmic reticulum.",
+    "first_author": "Nicholas J. Blunsom",
+    "year": 2019,
+    "citations": 105,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32585821",
+    "title": "Good Cop, Bad Cop: Defining the Roles of \u039440p53 in Cancer and Aging",
+    "first_author": "Luiza Steffens Reinhardt",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32782575",
+    "title": "Shank-associated RH domain interactor signaling in tumorigenesis",
+    "first_author": "C. Zeng",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-09"
+  },
+  {
+    "pmid": "33230792",
+    "title": "Nickel carcinogenesis mechanism: cell cycle dysregulation",
+    "first_author": "Hongrui Guo",
+    "year": 2020,
+    "citations": 37,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-11-23"
+  },
+  {
+    "pmid": "32279119",
+    "title": "Caveolin-1, a master regulator of cellular senescence",
+    "first_author": "D. Volonte\u0301",
+    "year": 2020,
+    "citations": 56,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-11"
+  },
+  {
+    "pmid": "32918185",
+    "title": "Role of Nrf2 in cell senescence regulation",
+    "first_author": "Huan Yuan",
+    "year": 2020,
+    "citations": 83,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-11"
+  },
+  {
+    "pmid": "32850408",
+    "title": "p28 Bacterial Peptide, as an Anticancer Agent",
+    "first_author": "A. Yaghoubi",
+    "year": 2020,
+    "citations": 44,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-06"
+  },
+  {
+    "pmid": "33380129",
+    "title": "Biomarkers for non-endoscopic examination of esophageal mucosa.",
+    "first_author": "Tereza Deissova",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-03"
+  },
+  {
+    "pmid": "32521839",
+    "title": "mdm2 oncogene in laryngeal squamous cell carcinoma.",
+    "first_author": "N. Mastronikolis",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "33295678",
+    "title": "Molecular mechanisms of anticancer effect of rutin",
+    "first_author": "A. Imani",
+    "year": 2020,
+    "citations": 165,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-12-09"
+  },
+  {
+    "pmid": "33287328",
+    "title": "DNA Damaged Induced Cell Death in Oocytes",
+    "first_author": "J. Gebel",
+    "year": 2020,
+    "citations": 40,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "33175222",
+    "title": "Tumor suppressor stars in yeast G1/S transition",
+    "first_author": "Pan Li",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-11"
+  },
+  {
+    "pmid": "32171848",
+    "title": "Sphingolipids and the link between alcohol and cancer.",
+    "first_author": "Keri Barron",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-11"
+  },
+  {
+    "pmid": "32765850",
+    "title": "Copy number variations and constitutional chromothripsis (Review)",
+    "first_author": "A. Br\u00e1s",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-26"
+  },
+  {
+    "pmid": "32714859",
+    "title": "Ultraviolet Radiation and Melanomagenesis: From Mechanism to Immunotherapy",
+    "first_author": "Xiaoying Sun",
+    "year": 2020,
+    "citations": 68,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-02"
+  },
+  {
+    "pmid": "32403216",
+    "title": "Targeting Intrinsically Disordered Proteins through Dynamic Interactions",
+    "first_author": "Jianlin Chen",
+    "year": 2020,
+    "citations": 40,
+    "fields": [
+      "Computer Science",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32477121",
+    "title": "Targeting Mouse Double Minute 2: Current Concepts in DNA Damage Repair and Therapeutic Approaches in Cancer",
+    "first_author": "Wen Li",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-07"
+  },
+  {
+    "pmid": "32085381",
+    "title": "Anticancer Potential of Resveratrol, \u03b2-Lapachone and Their Analogues",
+    "first_author": "Danielly C. Ferraz da Costa",
+    "year": 2020,
+    "citations": 58,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32850448",
+    "title": "Targeting MDMX for Cancer Therapy: Rationale, Strategies, and Challenges",
+    "first_author": "De-hua Yu",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-05"
+  },
+  {
+    "pmid": "32850836",
+    "title": "USP7 Is a Master Regulator of Genome Stability",
+    "first_author": "Gabrielle J. Valles",
+    "year": 2020,
+    "citations": 89,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-05"
+  },
+  {
+    "pmid": "31831363",
+    "title": "Effects of DHA-enriched fish oil on gene expression levels of p53 and NF-\u03baB and PPAR-\u03b3 activity in PBMCs of patients with T2DM: A\u00a0randomized, double-blind, clinical trial.",
+    "first_author": "Zeinab Naeini",
+    "year": 2019,
+    "citations": 45,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-05"
+  },
+  {
+    "pmid": "33537310",
+    "title": "Senescence and Apoptosis: Architects of Mammalian Development",
+    "first_author": "E. Wanner",
+    "year": 2021,
+    "citations": 42,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-01-18"
+  },
+  {
+    "pmid": "32274657",
+    "title": "StarD13: a potential star target for tumor therapeutics",
+    "first_author": "Leila Jaafar",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-09"
+  },
+  {
+    "pmid": "32201219",
+    "title": "Sex differences in the response to oxidative and proteolytic stress",
+    "first_author": "J. Tower",
+    "year": 2020,
+    "citations": 90,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-09"
+  },
+  {
+    "pmid": "32638380",
+    "title": "Drugging \u201cundruggable\u201d genes for cancer treatment: Are we making progress?",
+    "first_author": "M. Duffy",
+    "year": 2020,
+    "citations": 67,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-07"
+  },
+  {
+    "pmid": "32742565",
+    "title": "Multifaceted p21 in carcinogenesis, stemness of tumor and tumor therapy.",
+    "first_author": "Boduan Xiao",
+    "year": 2020,
+    "citations": 60,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-26"
+  },
+  {
+    "pmid": "30588854",
+    "title": "Comparison of several commonly used detection indicators of cell senescence",
+    "first_author": "Yuanyuan Xiao",
+    "year": 2018,
+    "citations": 17,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2018-12-27"
+  },
+  {
+    "pmid": "32996240",
+    "title": "Understanding the complicated relationship between antioxidants and carcinogenesis",
+    "first_author": "Debabrata Majumder",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-29"
+  },
+  {
+    "pmid": "32948502",
+    "title": "Dysregulated Ribosome Biogenesis Reveals Therapeutic Liabilities in Cancer.",
+    "first_author": "Sla\u0111ana Bursa\u0107",
+    "year": 2020,
+    "citations": 56,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-15"
+  },
+  {
+    "pmid": "33022533",
+    "title": "Modeling of osteosarcoma with induced pluripotent stem cells.",
+    "first_author": "L. Pang",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-22"
+  },
+  {
+    "pmid": "33327601",
+    "title": "A Survey of Synthetic Routes and Antitumor Activities for Benzo[g]quinoxaline-5,10-diones",
+    "first_author": "A. Giuglio-Tonolo",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32691711",
+    "title": "Molecular Dynamics in Esophageal Adenocarcinoma: Who's in Control?",
+    "first_author": "T. Dang",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-19"
+  },
+  {
+    "pmid": "31351766",
+    "title": "Gene mutation and surgical technique: Suggestion or more?",
+    "first_author": "Y. Kawaguchi",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33186811",
+    "title": "Centrosomes in disease: how the same music can sound so different?",
+    "first_author": "O. Goundiam",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-10"
+  },
+  {
+    "pmid": "31922241",
+    "title": "Aflatoxin influences achalasia symptomatology",
+    "first_author": "Sheng-li Lin",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-08"
+  },
+  {
+    "pmid": "32372973",
+    "title": "A Systems Biology Approach Identifies Hidden Regulatory Connections Between the Circadian and Cell-Cycle Checkpoints",
+    "first_author": "Xianlin Zou",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-16"
+  },
+  {
+    "pmid": "33014273",
+    "title": "The Role of BRG1 in Antioxidant and Redox Signaling",
+    "first_author": "Shilong You",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-14"
+  },
+  {
+    "pmid": "32682900",
+    "title": "TRAIL therapy and prospective developments for cancer treatment.",
+    "first_author": "Bindu Thapa",
+    "year": 2020,
+    "citations": 65,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-16"
+  },
+  {
+    "pmid": "32630614",
+    "title": "Therapeutic Editing of the TP53 Gene: Is CRISPR/Cas9 an Option?",
+    "first_author": "R. Mirgayazova",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32860479",
+    "title": "The Ins and Outs of HOPS/TMUB1 in biology and pathology",
+    "first_author": "M. A. Della Fazia",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-29"
+  },
+  {
+    "pmid": "32172299",
+    "title": "Chronic Lymphocytic Leukaemia in 2020: the Future Has Arrived",
+    "first_author": "K. Milne",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-14"
+  },
+  {
+    "pmid": "32920125",
+    "title": "Tumor reversion and Embryo morphogenetic factors.",
+    "first_author": "S. Proietti",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-10"
+  },
+  {
+    "pmid": "32793745",
+    "title": "Role of Kindlin-2 in cancer progression and metastasis.",
+    "first_author": "Wei Wang",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-17"
+  },
+  {
+    "pmid": "32315467",
+    "title": "Spliceosomopathies and neurocristopathies: two sides of the same coin?",
+    "first_author": "Marie-Claude Beauchamp",
+    "year": 2020,
+    "citations": 50,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-21"
+  },
+  {
+    "pmid": "31161997",
+    "title": "Styrylquinoline - a versatile scaffold in medicinal chemistry.",
+    "first_author": "R. Musio\u0142",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-29"
+  },
+  {
+    "pmid": "33552255",
+    "title": "Function of p21 and its therapeutic effects in esophageal cancer",
+    "first_author": "Lei Wang",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-20"
+  },
+  {
+    "pmid": "33213790",
+    "title": "Advances in Biomarkers for Risk Stratification in Barrett's Esophagus.",
+    "first_author": "R. Souza",
+    "year": 2021,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2021-01-01"
+  },
+  {
+    "pmid": "33239065",
+    "title": "Targeting autophagy to overcome drug resistance: further developments",
+    "first_author": "Haocai Chang",
+    "year": 2020,
+    "citations": 189,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-25"
+  },
+  {
+    "pmid": "33152460",
+    "title": "Multifunctional epiberberine mediates multi-therapeutic effects.",
+    "first_author": "Linqiu Liu",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "33198085",
+    "title": "Deciphering the Therapeutic Resistance in Acute Myeloid Leukemia",
+    "first_author": "C. Gurnari",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "31359240",
+    "title": "Phase 1 study of the MDM2 inhibitor AMG 232 in patients with advanced P53 wild-type solid tumors or multiple myeloma",
+    "first_author": "W. Larry Gluck",
+    "year": 2019,
+    "citations": 103,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-07-29"
+  },
+  {
+    "pmid": "32033297",
+    "title": "The Role of Reactive Oxygen Species in Arsenic Toxicity",
+    "first_author": "Yuxin Hu",
+    "year": 2020,
+    "citations": 314,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "33372374",
+    "title": "Senescence research from historical theory to future clinical application",
+    "first_author": "M. Kameda",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-28"
+  },
+  {
+    "pmid": "32918219",
+    "title": "Molecular Biology of Basal and Squamous Cell Carcinomas.",
+    "first_author": "L. Boeckmann",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "33251267",
+    "title": "A Mini-Review on Cell Cycle Regulation of Coronavirus Infection",
+    "first_author": "Mingjun Su",
+    "year": 2020,
+    "citations": 52,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-05"
+  },
+  {
+    "pmid": "31821536",
+    "title": "Cell transformation by the adenovirus oncogenes E1 and E4",
+    "first_author": "W. Ip",
+    "year": 2019,
+    "citations": 27,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-12-10"
+  },
+  {
+    "pmid": "31851045",
+    "title": "Molecular characterization of endometrial cancer and therapeutic implications.",
+    "first_author": "B. Winterhoff",
+    "year": 2017,
+    "citations": 16,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2017-02-01"
+  },
+  {
+    "pmid": "31998119",
+    "title": "Emerging Role of Sirtuin 2 in Parkinson\u2019s Disease",
+    "first_author": "Yumei Liu",
+    "year": 2020,
+    "citations": 62,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-10"
+  },
+  {
+    "pmid": "32102562",
+    "title": "Targeting cancer stem cells from a metabolic perspective",
+    "first_author": "Y. Shen",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-26"
+  },
+  {
+    "pmid": "32838718",
+    "title": "An Overview of promising Biomarkers in cancer screening and detection.",
+    "first_author": "S. Hasan",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-23"
+  },
+  {
+    "pmid": "31468188",
+    "title": "An update on the central nervous system manifestations of Li\u2013Fraumeni syndrome",
+    "first_author": "B. Orr",
+    "year": 2019,
+    "citations": 51,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-08-30"
+  },
+  {
+    "pmid": "32920697",
+    "title": "Interplay between HMGA and TP53 in cell cycle control along tumor progression",
+    "first_author": "N. Meireles Da Costa",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-12"
+  },
+  {
+    "pmid": "32875577",
+    "title": "What 20 years of research has taught us about the TP53 p.R337H mutation",
+    "first_author": "E. Pinto",
+    "year": 2020,
+    "citations": 42,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-17"
+  },
+  {
+    "pmid": "32024352",
+    "title": "Role of RUNX Family Transcription Factors in DNA Damage Response",
+    "first_author": "A. Samarakkody",
+    "year": 2020,
+    "citations": 31,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-06"
+  },
+  {
+    "pmid": "33272592",
+    "title": "Deconstructing Sonic Hedgehog Medulloblastoma: Molecular Subtypes, Drivers, and Beyond.",
+    "first_author": "Jes\u00fas Garc\u00eda-L\u00f3pez",
+    "year": 2020,
+    "citations": 51,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "33202204",
+    "title": "Viral Infections: Negative Regulators of Apoptosis and Oncogenic Factors",
+    "first_author": "A. V. Zamaraev",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "28643992",
+    "title": "Recent perspectives of molecular aberrations in pediatric high-grade glioma.",
+    "first_author": "Zhengwei Li",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "33160818",
+    "title": "Cell Competition Boosts Clonal Evolution and Hypoxic Selection in Cancer.",
+    "first_author": "E. Madan",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-04"
+  },
+  {
+    "pmid": "33325141",
+    "title": "miR\u2010424: A novel potential therapeutic target and prognostic factor in malignancies",
+    "first_author": "Narges Dastmalchi",
+    "year": 2020,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-15"
+  },
+  {
+    "pmid": "32681190",
+    "title": "Glutaminases regulate glutathione and oxidative stress in cancer",
+    "first_author": "J. Mat\u00e9s",
+    "year": 2020,
+    "citations": 67,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-18"
+  },
+  {
+    "pmid": "32973662",
+    "title": "Bidirectional Relation Between Parkinson's Disease and Glioblastoma Multiforme",
+    "first_author": "Paul D. Mencke",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-20"
+  },
+  {
+    "pmid": "32075244",
+    "title": "Role of Mycoplasma Chaperone DnaK in Cellular Transformation",
+    "first_author": "F. Benedetti",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "33324551",
+    "title": "Targeting the Ubiquitin System in Glioblastoma",
+    "first_author": "Nico Scholz",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-25"
+  },
+  {
+    "pmid": "32874827",
+    "title": "Small-molecule MDM2/X inhibitors and PROTAC degraders for cancer therapy: advances and perspectives",
+    "first_author": "Yuan Fang",
+    "year": 2020,
+    "citations": 80,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-14"
+  },
+  {
+    "pmid": "32757480",
+    "title": "Two histologic compartments in nonpolypoid conventional colon adenomas",
+    "first_author": "C. Rubio",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-05"
+  },
+  {
+    "pmid": "31741049",
+    "title": "What\u2019s new in bone forming tumours of the skeleton?",
+    "first_author": "Natasja Franceschini",
+    "year": 2019,
+    "citations": 37,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-18"
+  },
+  {
+    "pmid": "32067540",
+    "title": "Higher-risk myelodysplastic syndromes with del(5q): does the del(5q) matter?",
+    "first_author": "E. Gorshein",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-18"
+  },
+  {
+    "pmid": "33143318",
+    "title": "Viruses in Cancers of the Digestive System: Active Contributors or Idle Bystanders?",
+    "first_author": "M. Mar\u00f4nek",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-30"
+  },
+  {
+    "pmid": "32046255",
+    "title": "Genetic Predisposition to Breast and Ovarian Cancers: How Many and Which Genes to Test?",
+    "first_author": "D. Angeli",
+    "year": 2020,
+    "citations": 88,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "32079382",
+    "title": "Two intertwined compartments coexisting in sporadic conventional colon adenomas",
+    "first_author": "C. Rubio",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-24"
+  },
+  {
+    "pmid": "33069103",
+    "title": "Emerging roles for HMGA2 in colorectal cancer",
+    "first_author": "Xin Wang",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-14"
+  },
+  {
+    "pmid": "32027773",
+    "title": "The Zn2+ and Ca2+\u2010binding S100B and S100A1 proteins: beyond the myths",
+    "first_author": "J. Baudier",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-06"
+  },
+  {
+    "pmid": "31764020",
+    "title": "Genomic and Molecular Abnormalities in Gynecologic Clear Cell Carcinoma",
+    "first_author": "Eric I Marks",
+    "year": 2019,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-18"
+  },
+  {
+    "pmid": "33203188",
+    "title": "More than Meets the ISG15: Emerging Roles in the DNA Damage Response and Beyond",
+    "first_author": "Zac Sandy",
+    "year": 2020,
+    "citations": 48,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32486270",
+    "title": "Advances in DNA Repair\u2014Emerging Players in the Arena of Eukaryotic DNA Repair",
+    "first_author": "M. Kciuk",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-30"
+  },
+  {
+    "pmid": "32794627",
+    "title": "The cellular origins of cancer with particular reference to the gastrointestinal tract",
+    "first_author": "M. Alison",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-14"
+  },
+  {
+    "pmid": "32682268",
+    "title": "Oral potentially malignant disorders: A scoping review of prognostic biomarkers.",
+    "first_author": "F. Mello",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-16"
+  },
+  {
+    "pmid": "32801862",
+    "title": "PARP Inhibitors in Endometrial Cancer: Current Status and Perspectives",
+    "first_author": "L. Musacchio",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32414002",
+    "title": "TP53 in Myelodysplastic Syndromes: Recent Biological and Clinical Findings",
+    "first_author": "Cosimo Cumbo",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "31102668",
+    "title": "Transcriptional versus metabolic control of cell fitness during cell competition",
+    "first_author": "K. Lawlor",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32731837",
+    "title": "Aspects of Gene Therapy Products Using Current Genome-Editing Technology in Japan",
+    "first_author": "Teruhide Yamaguchi",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-31"
+  },
+  {
+    "pmid": "31774349",
+    "title": "An update on: molecular genetics of high-risk chronic lymphocytic leukemia",
+    "first_author": "R. Moia",
+    "year": 2019,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-27"
+  },
+  {
+    "pmid": "32918224",
+    "title": "The Vitamin D Receptor as Tumor Suppressor in Skin.",
+    "first_author": "D. Bikle",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32397368",
+    "title": "Two Birds with One Stone: NFAT1-MDM2 Dual Inhibitors for Cancer Therapy \u2020",
+    "first_author": "Wei Wang",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "33616916",
+    "title": "Protein phosphatase, Mg2+/Mn2+\u2010dependent 1D (PPM1D) mutations in haematological cancer",
+    "first_author": "S. Husby",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-12-08"
+  },
+  {
+    "pmid": "33160694",
+    "title": "Uterine serous carcinoma: Molecular features, clinical management, and new and future therapies.",
+    "first_author": "Elizabeth K. Lee",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-04"
+  },
+  {
+    "pmid": "32182763",
+    "title": "Tumor Suppressors in Chronic Lymphocytic Leukemia: From Lost Partners to Active Targets",
+    "first_author": "G. Andreani",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32777106",
+    "title": "The complex karyotype and chronic lymphocytic leukemia. A review of the literature.",
+    "first_author": "Ludovic Jondreville",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-10"
+  },
+  {
+    "pmid": "32331465",
+    "title": "Effects of Mycoplasmas on the Host Cell Signaling Pathways",
+    "first_author": "S. N. Borchsenius",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32171851",
+    "title": "Cell fate, metabolic reprogramming and lncRNA of tumor-initiating stem-like cells induced by alcohol.",
+    "first_author": "K. Machida",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-11"
+  },
+  {
+    "pmid": "32947046",
+    "title": "The E2 ubiquitin-conjugating enzyme UbcH5c: an emerging target in cancer and immune disorders.",
+    "first_author": "Yuanyi Zhou",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-15"
+  },
+  {
+    "pmid": "33076392",
+    "title": "Genetic Alterations in the INK4a/ARF Locus: Effects on Melanoma Development and Progression",
+    "first_author": "Zizhen Ming",
+    "year": 2020,
+    "citations": 31,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32249459",
+    "title": "Long noncoding RNAs in osteosarcoma via various signaling pathways",
+    "first_author": "Jinming Han",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-06"
+  },
+  {
+    "pmid": "31991614",
+    "title": "Prognosis, Biology, and Targeting of TP53 Dysregulation in Multiple Myeloma",
+    "first_author": "E. Flynt",
+    "year": 2020,
+    "citations": 60,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-24"
+  },
+  {
+    "pmid": "32718025",
+    "title": "The Intersection of DNA Damage Response and Ferroptosis\u2014A Rationale for Combination Therapeutics",
+    "first_author": "Po-Han Chen",
+    "year": 2020,
+    "citations": 40,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-23"
+  },
+  {
+    "pmid": "32690436",
+    "title": "Leveraging innovative therapies with an evolving understanding of the molecular pathogenesis of penile squamous cell carcinoma.",
+    "first_author": "A. Hajiran",
+    "year": 2020,
+    "citations": 2,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-17"
+  },
+  {
+    "pmid": "33137656",
+    "title": "IDH mutations in older patients with diffuse astrocytic gliomas.",
+    "first_author": "C. Andrews",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-25"
+  },
+  {
+    "pmid": "32407716",
+    "title": "Cell type and species-specific host responses to Toxoplasma gondii and its near relatives.",
+    "first_author": "Z. S. Wong",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32529800",
+    "title": "Improvement in the Current Therapies for Hepatocellular Carcinoma Using a Systems Medicine Approach",
+    "first_author": "M. Ozcan",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32385348",
+    "title": "The nuclear oncoprotein Fra-1: a transcription factor knocking on therapeutic applications\u2019 door",
+    "first_author": "F. Talotta",
+    "year": 2020,
+    "citations": 58,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-08"
+  },
+  {
+    "pmid": "33012495",
+    "title": "[Molecular pathways of autophagy regulation by BRCA1: Implications in cancer].",
+    "first_author": "J. M. Esteve",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32536008",
+    "title": "FBXO22, an epigenetic multiplayer coordinating senescence, hormone signaling, and metastasis",
+    "first_author": "Yoshikazu Johmura",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-14"
+  },
+  {
+    "pmid": "33423426",
+    "title": "Necrotizing sialometaplasia: a case report of a non-ulcerated histopathological presentation.",
+    "first_author": "Julia Neri",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-15"
+  },
+  {
+    "pmid": "32649656",
+    "title": "Richter transformation of chronic lymphocytic leukemia in the era of novel agents.",
+    "first_author": "Yucai Wang",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33032902",
+    "title": "Molecular events in the pathogenesis of vulvar squamous cell carcinoma.",
+    "first_author": "D. Xing",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-25"
+  },
+  {
+    "pmid": "32824561",
+    "title": "Current Understanding of the Emerging Role of Prolidase in Cellular Metabolism",
+    "first_author": "M. Misiura",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "33324542",
+    "title": "MicroRNA-381\u2014A Key Transcriptional Regulator: Its Biological Function and Clinical Application Prospects in Cancer",
+    "first_author": "Xue Zeng",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-26"
+  },
+  {
+    "pmid": "33158639",
+    "title": "Biological and genetic landscape of breast implant-associated anaplastic large cell lymphoma (BIA-ALCL).",
+    "first_author": "Milena Rond\u00f3n-Lagos",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-02"
+  },
+  {
+    "pmid": "32731241",
+    "title": "The Evolving Role of Systemic Therapy in the Primary Treatment of Sinonasal Cancer.",
+    "first_author": "L. Licitra",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-30"
+  },
+  {
+    "pmid": "31941067",
+    "title": "Oxidative Stress and Cancer: Chemopreventive and Therapeutic Role of Triphala",
+    "first_author": "S. Prasad",
+    "year": 2020,
+    "citations": 69,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "33027717",
+    "title": "Cell-Penetrating Peptides in Oncologic Pharmacotherapy: A Review.",
+    "first_author": "N. Vale",
+    "year": 2020,
+    "citations": 47,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-04"
+  },
+  {
+    "pmid": "33330110",
+    "title": "The Role of Non-Coding RNAs in Controlling Cell Cycle Related Proteins in Cancer Cells",
+    "first_author": "S. Ghafouri\u2010Fard",
+    "year": 2020,
+    "citations": 72,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-30"
+  },
+  {
+    "pmid": "32587828",
+    "title": "AATF/Che-1\u2014An RNA Binding Protein at the Nexus of DNA Damage Response and Ribosome Biogenesis",
+    "first_author": "Rainer W J Kaiser",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-10"
+  },
+  {
+    "pmid": "33132721",
+    "title": "Health benefits of sesamin on cardiovascular disease and its associated risk factors",
+    "first_author": "S. Dalibalta",
+    "year": 2020,
+    "citations": 80,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32456160",
+    "title": "Vitamin D in Triple-Negative and BRCA1-Deficient Breast Cancer\u2014Implications for Pathogenesis and Therapy",
+    "first_author": "J. B\u0142asiak",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32921631",
+    "title": "Emerging roles of the MAGE protein family in stress response pathways",
+    "first_author": "Rebecca R. Florke Gee",
+    "year": 2020,
+    "citations": 55,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-13"
+  },
+  {
+    "pmid": "32949152",
+    "title": "Small but strong: Mutational and functional landscapes of micronuclei in cancer genomes",
+    "first_author": "Xihan Guo",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-19"
+  },
+  {
+    "pmid": "32372692",
+    "title": "The Roles of Frequently Mutated Genes of Pancreatic Cancer in Regulation of Tumor Microenvironment",
+    "first_author": "Hongzhi Sun",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-05"
+  },
+  {
+    "pmid": "33013864",
+    "title": "Externally-Controlled Systems for Immunotherapy: From Bench to Bedside",
+    "first_author": "M. Trist\u00e1n-Manzano",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-04"
+  },
+  {
+    "pmid": "32085583",
+    "title": "Bone and Soft-Tissue Sarcoma: A New Target for Telomerase-Specific Oncolytic Virotherapy",
+    "first_author": "H. Tazawa",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "31538910",
+    "title": "MicroRNAs Determining Carcinogenesis by Regulating Oncogenes and Tumor Suppressor Genes During Cell Cycle",
+    "first_author": "Z. Fasoulakis",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-31"
+  },
+  {
+    "pmid": "31192453",
+    "title": "Interactive functions of microRNAs in the miR\u201023a\u201027a\u201024\u20102 cluster and the potential for targeted therapy in cancer",
+    "first_author": "Mengying Cui",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32157215",
+    "title": "Radiation resistance in head and neck squamous cell carcinoma: dire need for an appropriate sensitizer",
+    "first_author": "Marsha-Kay N. D. Hutchinson",
+    "year": 2020,
+    "citations": 120,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-10"
+  },
+  {
+    "pmid": "33270905",
+    "title": "Molecular profile of pancreatic neuroendocrine neoplasms (PanNENs): Opportunities for personalized therapies",
+    "first_author": "J. Arakelyan",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-03"
+  },
+  {
+    "pmid": "32899663",
+    "title": "Mycoplasmas\u2013Host Interaction: Mechanisms of Inflammation and Association with Cellular Transformation",
+    "first_author": "F. Benedetti",
+    "year": 2020,
+    "citations": 56,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32679172",
+    "title": "Interfering with S100B-effector protein interactions for cancer therapy.",
+    "first_author": "Ke-Jia Wu",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-14"
+  },
+  {
+    "pmid": "32565738",
+    "title": "MicroRNAs signatures, bioinformatics analysis of miRNAs, miRNA mimics and antagonists, and miRNA therapeutics in osteosarcoma",
+    "first_author": "Babak Otoukesh",
+    "year": 2020,
+    "citations": 62,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-17"
+  },
+  {
+    "pmid": "32870330",
+    "title": "DYRK1A: a down syndrome-related dual protein kinase with a versatile role in tumorigenesis",
+    "first_author": "A. Laham",
+    "year": 2020,
+    "citations": 62,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32599736",
+    "title": "Modulation of DNA Damage Response by Sphingolipid Signaling: An Interplay that Shapes Cell Fate",
+    "first_author": "Marina Francis",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32962187",
+    "title": "Roles of NRF3 in the Hallmarks of Cancer: Proteasomal Inactivation of Tumor Suppressors",
+    "first_author": "A. Kobayashi",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32260198",
+    "title": "A Precision Strategy to Cure Renal Cell Carcinoma by Targeting Transglutaminase 2",
+    "first_author": "Soo\u2010Youl Kim",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32237227",
+    "title": "Methods and Approaches for the Solid-Phase Synthesis of Peptide Alcohols.",
+    "first_author": "Fernando J. Ferrer\u2010Gago",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32741869",
+    "title": "[Linkage of Drug Resistance and Metabolome Shift in Renal Cell Carcinoma Cells].",
+    "first_author": "Hiromi Sato",
+    "year": 2020,
+    "citations": 0,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "32655497",
+    "title": "Mini Review: Opposing Pathologies in Cancer and Alzheimer's Disease: Does the PI3K/Akt Pathway Provide Clues?",
+    "first_author": "R. Barker",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-23"
+  },
+  {
+    "pmid": "32751183",
+    "title": "The HECT E3 Ligase E6AP/UBE3A as a Therapeutic Target in Cancer and Neurological Disorders",
+    "first_author": "A. Owais",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-29"
+  },
+  {
+    "pmid": "32578333",
+    "title": "Current and future strategies for treatment of ovarian clear cell carcinoma",
+    "first_author": "A. Ogasawara",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-23"
+  },
+  {
+    "pmid": "31935396",
+    "title": "Fibroblast growth factor homologous factors are potential ion channel modifiers associated with cardiac arrhythmias.",
+    "first_author": "Qing Li",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-01-11"
+  },
+  {
+    "pmid": "32569759",
+    "title": "AML chemoresistance: The role of mutant TP53 subclonal expansion and therapy strategy.",
+    "first_author": "B. Yan",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-19"
+  },
+  {
+    "pmid": "32620064",
+    "title": "Central Metabolism in Mammals and Plants as a Hub for Controlling Cell Fate",
+    "first_author": "Jennifer Selinski",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-03"
+  },
+  {
+    "pmid": "32003702",
+    "title": "Alkaloids as Anticancer Agents: A Review of Chinese Patents in Recent 5 Years.",
+    "first_author": "Hongyu Tao",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-31"
+  },
+  {
+    "pmid": "32927797",
+    "title": "Metabolic Roles of Androgen Receptor and Tip60 in Androgen-Dependent Prostate Cancer",
+    "first_author": "K. N. Tan",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "31991534",
+    "title": "CROX (Cluster Regulation of RUNX) as a Potential Novel Therapeutic Approach",
+    "first_author": "Yasuhiko Kamikubo",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-23"
+  },
+  {
+    "pmid": "33330821",
+    "title": "Hepatocyte ploidy and pathological mutations in hepatocellular carcinoma: impact on oncogenesis and therapeutics.",
+    "first_author": "Taiji Yamazoe",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-31"
+  },
+  {
+    "pmid": "32035228",
+    "title": "Mechanistic understanding of \u03b2-cryptoxanthin and lycopene in cancer prevention in animal models.",
+    "first_author": "J. Lim",
+    "year": 2020,
+    "citations": 57,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-05"
+  },
+  {
+    "pmid": "33375680",
+    "title": "Distinct p63 and p73 Protein Interactions Predict Specific Functions in mRNA Splicing and Polyploidy Control in Epithelia",
+    "first_author": "J. Rozenberg",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-12-25"
+  },
+  {
+    "pmid": "33260729",
+    "title": "The Role of Autophagy in Liver Cancer: Crosstalk in Signaling Pathways and Potential Therapeutic Targets",
+    "first_author": "Jianzhou Cui",
+    "year": 2020,
+    "citations": 48,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-28"
+  },
+  {
+    "pmid": "31748977",
+    "title": "Radiotherapy-induced malignancies in breast cancer patients with TP53 pathogenic germline variants (Li\u2013Fraumeni syndrome)",
+    "first_author": "V. Petry",
+    "year": 2019,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-20"
+  },
+  {
+    "pmid": "32564423",
+    "title": "Cutaneous adnexal carcinosarcoma: Immunohistochemical and molecular evidence of epithelial mesenchymal transition",
+    "first_author": "DongHyang Kwon",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-21"
+  },
+  {
+    "pmid": "32060873",
+    "title": "A Nucleolar Protein, Nepro, Is Essential for the Maintenance of Early Neural Stem Cells and Preimplantation Embryos.",
+    "first_author": "Tetsuichiro Saito",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32950519",
+    "title": "14-3-3 \u03c3: a potential biomolecule for cancer therapy.",
+    "first_author": "Yun Huang",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-17"
+  },
+  {
+    "pmid": "32405728",
+    "title": "Molekulare Pr\u00e4diktoren f\u00fcr den Krankheitsverlauf und die individualisierte Therapie beim Pankreaskarzinom",
+    "first_author": "A. Damanakis",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-13"
+  },
+  {
+    "pmid": "32708729",
+    "title": "Guarding the Genome: CENP-A-Chromatin in Health and Cancer",
+    "first_author": "M. Mahlke",
+    "year": 2020,
+    "citations": 50,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32335720",
+    "title": "Molecular pathways in vulvar squamous cell carcinoma: implications for target therapeutic strategies",
+    "first_author": "Giulia Mantovani",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-25"
+  },
+  {
+    "pmid": "31790874",
+    "title": "Entrenching role of cell cycle checkpoints and autophagy for maintenance of genomic integrity.",
+    "first_author": "Sumit Anand",
+    "year": 2019,
+    "citations": 71,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2019-11-13"
+  },
+  {
+    "pmid": "32013256",
+    "title": "Interplay between BRCA1 and GADD45A and Its Potential for Nucleotide Excision Repair in Breast Cancer Pathogenesis",
+    "first_author": "Sylwia Pietrasik",
+    "year": 2020,
+    "citations": 43,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-29"
+  },
+  {
+    "pmid": "33380811",
+    "title": "RNA-Binding Motif Protein 38 as a Potential Biomarker and Therapeutic Target in Cancer",
+    "first_author": "Xiaomin She",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "33195190",
+    "title": "The Enigmatic Role of Serum & Glucocorticoid Inducible Kinase 1 in the Endometrium",
+    "first_author": "F. Lang",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-21"
+  },
+  {
+    "pmid": "32560478",
+    "title": "Pro-oxidant Actions of Carotenoids in Triggering Apoptosis of Cancer Cells: A Review of Emerging Evidence",
+    "first_author": "Juhyun Shin",
+    "year": 2020,
+    "citations": 140,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "33233707",
+    "title": "Histone Monoubiquitination in Chromatin Remodelling: Focus on the Histone H2B Interactome and Cancer",
+    "first_author": "D. Marsh",
+    "year": 2020,
+    "citations": 38,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32375891",
+    "title": "Recent advances on innate immune pathways related to host\u2013parasite cross-talk in cystic and alveolar echinococcosis",
+    "first_author": "Nayer Mehdizad Bakhtiar",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-06"
+  },
+  {
+    "pmid": "32599735",
+    "title": "From Genes to -Omics: The Evolving Molecular Landscape of Malignant Peripheral Nerve Sheath Tumor",
+    "first_author": "K. Lemberg",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32279523",
+    "title": "A view of the epidemiologic landscape: how population-based studies can lend novel insights regarding the pathophysiology of glioblastoma.",
+    "first_author": "R. Tadipatri",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-08"
+  },
+  {
+    "pmid": "32582435",
+    "title": "An update on long intergenic noncoding RNA p21: a regulatory molecule with various significant functions in cancer",
+    "first_author": "R. Amirinejad",
+    "year": 2020,
+    "citations": 50,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-22"
+  },
+  {
+    "pmid": "32721499",
+    "title": "Skin photo-protection with phytochemicals against photo-oxidative stress, photo-carcinogenesis, signal transduction pathways and extracellular matrix remodeling\u2014An overview",
+    "first_author": "Chanchal Garg",
+    "year": 2020,
+    "citations": 55,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-25"
+  },
+  {
+    "pmid": "30182837",
+    "title": "Close interplay of nitro-oxidative stress, advanced glycation end products and inflammation in inflammatory bowel diseases.",
+    "first_author": "F. A. Moura",
+    "year": 2020,
+    "citations": 37,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-31"
+  },
+  {
+    "pmid": "32044274",
+    "title": "Decoding Bone Marrow Fibrosis in Myelodysplastic Syndromes.",
+    "first_author": "Megan Melody",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-14"
+  },
+  {
+    "pmid": "32091332",
+    "title": "Genetic variants and oxidative stress in Alzheimer's disease.",
+    "first_author": "M. Kowalska",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-24"
+  },
+  {
+    "pmid": "32688042",
+    "title": "Clinical Features and Outcomes of Primary Spinal Cord Glioblastoma: a Single Center Experience and Literature Review.",
+    "first_author": "Kaiyuan Yang",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-17"
+  },
+  {
+    "pmid": "33152911",
+    "title": "Cross-talk between oxidative stress signaling and microRNA regulatory systems in carcinogenesis: Focused on gastrointestinal cancers.",
+    "first_author": "A. Akbari",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-23"
+  },
+  {
+    "pmid": "32551999",
+    "title": "TP53 dysfunction in chronic lymphocytic leukemia: clinical relevance in the era of B-cell receptors and BCL-2 inhibitors",
+    "first_author": "F. Morabito",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-17"
+  },
+  {
+    "pmid": "33183724",
+    "title": "New Prognostic Indicators in Pediatric Adrenal Tumors: Neuroblastoma and Adrenal Cortical Tumors, Can We Predict When These Will Behave Badly?",
+    "first_author": "J. Jarzembowski",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-09"
+  },
+  {
+    "pmid": "33098216",
+    "title": "Evidence for different molecular parameters in head and neck squamous cell carcinoma of nonsmokers and nondrinkers: Systematic review and meta\u2010analysis on HPV, p16, and TP53",
+    "first_author": "F. Mulder",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-23"
+  },
+  {
+    "pmid": "32627089",
+    "title": "Primary central nervous system lymphomas associated with chronic inflammation: diagnostic pitfalls of central nervous system lymphomas",
+    "first_author": "Y. Sugita",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-05"
+  },
+  {
+    "pmid": "32093585",
+    "title": "Protective effects of 1,25 dihydroxyvitamin D3 and its analogs on ultraviolet radiation-induced oxidative stress: a review",
+    "first_author": "Shemani Vishalya Jagoda",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "31647999",
+    "title": "aCLS cancers: genomic and epigenetic changes transform the cell of origin of cancer into a tumorigenic pathogen of unicellular organization and lifestyle.",
+    "first_author": "V. Niculescu",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-05"
+  },
+  {
+    "pmid": "32779701",
+    "title": "Roles for the DNA-PK complex and 53BP1 in protecting ends from resection during DNA double-strand break repair",
+    "first_author": "A. Shibata",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-08-11"
+  },
+  {
+    "pmid": "32517694",
+    "title": "Autophagy in cancers including brain tumors: role of MicroRNAs",
+    "first_author": "M. H. Pourhanifeh",
+    "year": 2020,
+    "citations": 52,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-06-09"
+  },
+  {
+    "pmid": "32966936",
+    "title": "Genotype-phenotype correlations among TP53 carriers: Literature review and analysis of probands undergoing multi-gene panel testing and single-gene testing.",
+    "first_author": "Cristina Fortuno",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-11"
+  },
+  {
+    "pmid": "32486507",
+    "title": "The S100B Protein and Partners in Adipocyte Response to Cold Stress and Adaptive Thermogenesis: Facts, Hypotheses, and Perspectives",
+    "first_author": "J. Baudier",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-05-31"
+  },
+  {
+    "pmid": "33403784",
+    "title": "CCAR1 and CCAR2 as gene chameleons with antagonistic duality: Preclinical, human translational, and mechanistic basis",
+    "first_author": "G. Johnson",
+    "year": 2020,
+    "citations": 23,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-09"
+  },
+  {
+    "pmid": "33205684",
+    "title": "Apoptosis targeted therapies in acute myeloid leukemia: an update",
+    "first_author": "S. Ball",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-18"
+  },
+  {
+    "pmid": "32828887",
+    "title": "The ZAR1 protein in cancer; from epigenetic silencing to functional characterisation and epigenetic therapy of tumour suppressors.",
+    "first_author": "Antje M. Richter",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-20"
+  },
+  {
+    "pmid": "31631728",
+    "title": "The role of MYC in the transformation and aggressiveness of \u2018indolent\u2019 B-cell malignancies",
+    "first_author": "D. Filip",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-23"
+  },
+  {
+    "pmid": "33288731",
+    "title": "Phosphorylation and Driver Mutations in PI3K\u03b1 and PTEN Autoinhibition",
+    "first_author": "R. Nussinov",
+    "year": 2020,
+    "citations": 35,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-12-07"
+  },
+  {
+    "pmid": "32505836",
+    "title": "Sestrin2 as a potential therapeutic target for cardiovascular diseases.",
+    "first_author": "Gao Anbo",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-04"
+  },
+  {
+    "pmid": "30836431",
+    "title": "Genomic data in prognostic models\u2014what is lost in translation? The case of deletion 17p and mutant TP53 in chronic lymphocytic leukaemia",
+    "first_author": "B. Chin\u2010Yee",
+    "year": 2019,
+    "citations": 4,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-03-05"
+  },
+  {
+    "pmid": "32180097",
+    "title": "Anticancer Actions of Azurin and Its Derived Peptide p28",
+    "first_author": "Fan Huang",
+    "year": 2020,
+    "citations": 31,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-03-16"
+  },
+  {
+    "pmid": "31742837",
+    "title": "New addiction to the NRF2\u2010related factor NRF3 in cancer cells: Ubiquitin\u2010independent proteolysis through the 20S proteasome",
+    "first_author": "A. Kobayashi",
+    "year": 2019,
+    "citations": 37,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-11-19"
+  },
+  {
+    "pmid": "32891720",
+    "title": "Role of natural products in breast cancer related symptomology: Targeting chronic inflammation.",
+    "first_author": "K. Andrijauskaite",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-03"
+  },
+  {
+    "pmid": "31963420",
+    "title": "RASSF1A Tumour Suppressor: Target the Network for Effective Cancer Therapy",
+    "first_author": "Luc\u00eda Garc\u00eda-Guti\u00e9rrez",
+    "year": 2020,
+    "citations": 53,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "33396470",
+    "title": "EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer\u2019s Disease",
+    "first_author": "V. Khavinson",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-31"
+  },
+  {
+    "pmid": "33243021",
+    "title": "A Review of Natural Therapies Potentially Relevant in Triple Negative Breast Cancer Aimed at Targeting Cancer Cell Vulnerabilities",
+    "first_author": "Myfanwy Jane Webb",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32664845",
+    "title": "The Tumor Suppressor Role of the Ras Association Domain Family 10.",
+    "first_author": "Yulong Hou",
+    "year": 2020,
+    "citations": 0,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-14"
+  },
+  {
+    "pmid": "33425907",
+    "title": "SESTRINs: Emerging Dynamic Stress-Sensors in Metabolic and Environmental Health",
+    "first_author": "Seung-Hyun Ro",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-03"
+  },
+  {
+    "pmid": "33299826",
+    "title": "Impact and clinical usefulness of genetic data in the surgical management of colorectal cancer liver metastasis: a narrative review.",
+    "first_author": "G. Margonis",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-01"
+  },
+  {
+    "pmid": "32949585",
+    "title": "An appraisal on molecular and biochemical signalling cascades during arsenic-induced hepatotoxicity.",
+    "first_author": "Kaviyarasi Renu",
+    "year": 2020,
+    "citations": 55,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-09-17"
+  },
+  {
+    "pmid": "33171154",
+    "title": "Telomeres and telomerase in risk assessment of cardiovascular diseases.",
+    "first_author": "E. Boniewska-Bernacka",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-07"
+  },
+  {
+    "pmid": "32702646",
+    "title": "Prognostic and clinical significance of focal adhesion kinase expression in breast cancer: A systematic review and meta-analysis",
+    "first_author": "Weiqiang Qiao",
+    "year": 2020,
+    "citations": 8,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-20"
+  },
+  {
+    "pmid": "32387856",
+    "title": "Are polyploid giant cancer cells in high grade serous carcinoma of the ovary blastomere-like cancer stem cells?",
+    "first_author": "Alireza Salem",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-18"
+  },
+  {
+    "pmid": "32001373",
+    "title": "Genetic polymorphisms of TP53 (rs1042522) and MDM2 (rs2279744) and colorectal cancer risk: An updated meta-analysis based on 59 case-control studies.",
+    "first_author": "Rami M. Elshazli",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-01-27"
+  },
+  {
+    "pmid": "32872288",
+    "title": "The Role of the JC Virus in Central Nervous System Tumorigenesis",
+    "first_author": "Nicholas Ahye",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-28"
+  },
+  {
+    "pmid": "31638087",
+    "title": "Therapeutic importance of hydrogen sulfide in age-associated neurodegenerative diseases",
+    "first_author": "Rubaiya Tabassum",
+    "year": 2019,
+    "citations": 56,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-10-18"
+  },
+  {
+    "pmid": "32726539",
+    "title": "Ibrutinib for Chronic Lymphocytic Leukemia with TP53 Alterations.",
+    "first_author": "I. Ahn",
+    "year": 2020,
+    "citations": 88,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-29"
+  },
+  {
+    "pmid": "32763292",
+    "title": "Regulatory and immunomodulatory role of miR-34a in T cell immunity.",
+    "first_author": "Forough Taheri",
+    "year": 2020,
+    "citations": 37,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-04"
+  },
+  {
+    "pmid": "32149561",
+    "title": "Radiation induced apoptosis and pulmonary fibrosis: curcumin an effective intervention?",
+    "first_author": "Shilpa Johnson",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-09"
+  },
+  {
+    "pmid": "32534704",
+    "title": "Mixed adenoneuroendocrine carcinoma of the gallbladder, amphicrine type: Case report and review of literature.",
+    "first_author": "Dongwei Zhang",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32493394",
+    "title": "Regulators of glucose uptake in thyroid cancer cell lines",
+    "first_author": "S. Heydarzadeh",
+    "year": 2020,
+    "citations": 71,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-03"
+  },
+  {
+    "pmid": "32205480",
+    "title": "Report From the International Society of Urological Pathology (ISUP) Consultation Conference on Molecular Pathology of Urogenital Cancers",
+    "first_author": "L. Looijenga",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-20"
+  },
+  {
+    "pmid": "32357912",
+    "title": "The application and prospect of CDK4/6 inhibitors in malignant solid tumors",
+    "first_author": "Qi Du",
+    "year": 2020,
+    "citations": 113,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "34083046",
+    "title": "Function and molecular mechanisms of APE2 in genome and epigenome integrity.",
+    "first_author": "Yunfeng Lin",
+    "year": 2021,
+    "citations": 18,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2021-01-01"
+  },
+  {
+    "pmid": "31897925",
+    "title": "Management of sinonasal adenocarcinomas with anterior skull base extension",
+    "first_author": "M. Ferrari",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-03"
+  },
+  {
+    "pmid": "32918222",
+    "title": "Protection from Ultraviolet Damage and Photocarcinogenesis by Vitamin D Compounds.",
+    "first_author": "W. G. M. De Silva",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32642201",
+    "title": "Impact of concurrent genomic alterations in epidermal growth factor receptor (EGFR)-mutated lung cancer",
+    "first_author": "B. Gini",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32022939",
+    "title": "The effects of UVB irradiance on vitiligo phototherapy and UVB\u2010induced photocarcinogenesis",
+    "first_author": "Ting-Ting Yang",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-05"
+  },
+  {
+    "pmid": "32565808",
+    "title": "AEBP1 is a Novel Oncogene: Mechanisms of Action and Signaling Pathways",
+    "first_author": "A. Majdalawieh",
+    "year": 2020,
+    "citations": 54,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-27"
+  },
+  {
+    "pmid": "31841993",
+    "title": "Nuclear Factor \u03baB Signaling and Its Related Non-coding RNAs in Cancer Therapy",
+    "first_author": "Xiaomin Liu",
+    "year": 2019,
+    "citations": 36,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-11-18"
+  },
+  {
+    "pmid": "33084906",
+    "title": "Emerging roles of lamins and DNA damage repair mechanisms in ovarian cancer.",
+    "first_author": "Duhita Sengupta",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-10-21"
+  },
+  {
+    "pmid": "32643812",
+    "title": "Next\u2010generation sequencing revealing TP53 mutation as potential genetic driver in dermal deep\u2010seated melanoma arising in giant congenital nevus in adult patients: A unique case report and review of the literature",
+    "first_author": "C. Ricci",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-09"
+  },
+  {
+    "pmid": "32167968",
+    "title": "Coexistent Dedifferentiated Endometrioid Carcinoma of the Uterus and Adenocarcinoma of the Bladder in Lynch Syndrome: Case Report and Review of the Literature",
+    "first_author": "J. Groth",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32141677",
+    "title": "Molecular mechanism of curcumin action in signaling pathways: Review of the latest research.",
+    "first_author": "Przemys\u0142aw Liczbi\u0144ski",
+    "year": 2020,
+    "citations": 131,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-03-06"
+  },
+  {
+    "pmid": "32364360",
+    "title": "[Az \u00e1tt\u00e9tes kasztr\u00e1ci\u00f3rezisztens prosztatar\u00e1k gy\u00f3gyszer-rezisztenci\u00e1j\u00e1nak molekul\u00e1ris vonatkoz\u00e1sai].",
+    "first_author": "Tibor Szarvas",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32039001",
+    "title": "Molecular Links Between Angiogenesis and Neuroendocrine Phenotypes in Prostate Cancer Progression",
+    "first_author": "Zhenlian Wang",
+    "year": 2020,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-21"
+  },
+  {
+    "pmid": "32645959",
+    "title": "Insights into the New Cancer Therapy through Redox Homeostasis and Metabolic Shifts",
+    "first_author": "D. Hyun",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32762181",
+    "title": "[Apoptosis and autophagy in the pathogenesis of acute ischemic stroke (review of literature).]",
+    "first_author": "A. Lugovaya",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-04"
+  },
+  {
+    "pmid": "33369763",
+    "title": "Prognostic Value of Epithelial Cell Adhesion Molecules in T1\u20102N0M0 Glottic Cancer",
+    "first_author": "N. Murakami",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-28"
+  },
+  {
+    "pmid": "32878253",
+    "title": "Interactions of Zinc Oxide Nanostructures with Mammalian Cells: Cytotoxicity and Photocatalytic Toxicity",
+    "first_author": "C. Liao",
+    "year": 2020,
+    "citations": 116,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-08-31"
+  },
+  {
+    "pmid": "31981075",
+    "title": "Gallbladder Mixed Neuroendocrine-Non-neuroendocrine Neoplasm (MiNEN) Arising in Intracholecystic Papillary Neoplasm: Clinicopathologic and Molecular Analysis of a Case and Review of the Literature",
+    "first_author": "A. Sciarra",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-24"
+  },
+  {
+    "pmid": "31922971",
+    "title": "Tumor protein 53 mutations in acute myeloid leukemia: conventional induction chemotherapy or novel therapeutics.",
+    "first_author": "H. Asghari",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-09"
+  },
+  {
+    "pmid": "32485257",
+    "title": "Hepatoprotective effect of plant polysaccharides from natural resources: A review of the mechanisms and structure-activity relationship.",
+    "first_author": "Jialin Qu",
+    "year": 2020,
+    "citations": 136,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-05-30"
+  },
+  {
+    "pmid": "32147436",
+    "title": "Connexin 32 deficiency protects the liver against ischemia/reperfusion injury.",
+    "first_author": "Shan Wu",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-05"
+  },
+  {
+    "pmid": "31993310",
+    "title": "Regulation of expression of drug-metabolizing enzymes by oncogenic signaling pathways in liver tumors: a review",
+    "first_author": "A. Braeuning",
+    "year": 2019,
+    "citations": 17,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-07-26"
+  },
+  {
+    "pmid": "32726721",
+    "title": "Novel insights into the roles of RNA N6-methyladenosine modification in regulating gene expression during environmental exposures.",
+    "first_author": "Dong Li",
+    "year": 2020,
+    "citations": 19,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-22"
+  },
+  {
+    "pmid": "33395650",
+    "title": "MORPHOLOGICAL DIAGNOSIS OF PANCREATIC NEUROENDOCRINE TUMORS (REVIEW AND CASE REPORT).",
+    "first_author": "D. Opanasenko",
+    "year": 2020,
+    "citations": 0,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32608376",
+    "title": "Potential roads for reaching the summit: an overview on target therapies for high-grade gliomas",
+    "first_author": "Alice Giotta Lucifero",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-30"
+  },
+  {
+    "pmid": "32953528",
+    "title": "Targeting ferroptosis for cancer therapy: exploring novel strategies from its mechanisms and role in cancers",
+    "first_author": "Minlin Jiang",
+    "year": 2020,
+    "citations": 124,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-27"
+  },
+  {
+    "pmid": "32252028",
+    "title": "Thyroid squamous cell carcinoma: a unique type of cancer in World Health Organization classification.",
+    "first_author": "A. Lam",
+    "year": 2020,
+    "citations": 30,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "33928226",
+    "title": "Sagacity in antibody humanization for therapeutics, diagnostics and research purposes: considerations of antibody elements and their roles",
+    "first_author": "Wei-Li Ling",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-02-18"
+  },
+  {
+    "pmid": "32765956",
+    "title": "Cell Cycle Deficits in Neurodegenerative Disorders: Uncovering Molecular Mechanisms to Drive Innovative Therapeutic Development",
+    "first_author": "Chitra Joseph",
+    "year": 2020,
+    "citations": 70,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "32712965",
+    "title": "Monoclonal gammopathy and serum immunoglobulin levels as prognostic factors in chronic lymphocytic leukaemia",
+    "first_author": "A. Corbingi",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-26"
+  },
+  {
+    "pmid": "32410997",
+    "title": "Cyclooxygenase 2-Regulated Genes an Alternative Avenue to the Development of New Therapeutic Drugs for Colorectal Cancer",
+    "first_author": "Alicia M Hidalgo-Est\u00e9vez",
+    "year": 2020,
+    "citations": 35,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-29"
+  },
+  {
+    "pmid": "32062672",
+    "title": "Baseline TP53 mutations in Adults with SCD developing Myeloid Malignancy following Hematopoietic Cell Transplantation.",
+    "first_author": "J. Ghannam",
+    "year": 2020,
+    "citations": 51,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-14"
+  },
+  {
+    "pmid": "33163258",
+    "title": "Genomics and splicing events of type II endometrial cancers in the black population: racial disparity, socioeconomic and geographical differences.",
+    "first_author": "F. Francies",
+    "year": 2020,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32319019",
+    "title": "Targeting Apoptosis in Acute Myeloid Leukemia: Current Status and Future Directions of BCL-2 Inhibition with Venetoclax and Beyond",
+    "first_author": "J. Choi",
+    "year": 2020,
+    "citations": 37,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32068926",
+    "title": "Garlic (Allium sativum) as an antidote or a protective agent against natural or chemical toxicities: A comprehensive update review.",
+    "first_author": "Mahyar Dorrigiv",
+    "year": 2020,
+    "citations": 74,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-02-18"
+  },
+  {
+    "pmid": "32804454",
+    "title": "Colorectal Adenocarcinomas Harboring ALK Fusion Genes",
+    "first_author": "J. Lasota",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-03"
+  },
+  {
+    "pmid": "32134194",
+    "title": "Histology of pediatric classic Hodgkin lymphoma: From diagnosis to prognostic stratification",
+    "first_author": "M. Pizzi",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-05"
+  },
+  {
+    "pmid": "31657074",
+    "title": "Ferulic acid reinstates mitochondrial dynamics through PGC1\u03b1 expression modulation in 6\u2010hydroxydopamine lesioned rats",
+    "first_author": "Ehraz Anis",
+    "year": 2020,
+    "citations": 53,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32658383",
+    "title": "Rhabdomyosarcoma associated with germline TP53 alteration in children and adolescents: The French experience",
+    "first_author": "Morgane Pondrom",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-13"
+  },
+  {
+    "pmid": "31628675",
+    "title": "Exome sequencing of 22 genes using tissue from patients with biliary tract cancer",
+    "first_author": "D. H\u00f8gdall",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32167393",
+    "title": "MIRROS: a randomized, placebo-controlled, Phase III trial of cytarabine \u00b1 idasanutlin in relapsed or refractory acute myeloid leukemia.",
+    "first_author": "P. Montesinos",
+    "year": 2020,
+    "citations": 67,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-13"
+  },
+  {
+    "pmid": "33509441",
+    "title": "A pilot clinical trial of oral tetrahydrouridine/decitabine for noncytotoxic epigenetic therapy of chemoresistant lymphoid malignancies.",
+    "first_author": "B. Hill",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-14"
+  },
+  {
+    "pmid": "31822892",
+    "title": "Prognostic impact of immunohistopathologic features in definitive radiation therapy for nasopharyngeal cancer patients",
+    "first_author": "N. Murakami",
+    "year": 2019,
+    "citations": 7,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-12-10"
+  },
+  {
+    "pmid": "31604115",
+    "title": "Endogenous production of C-C motif chemokine ligand 2 by nasopharyngeal carcinoma cells drives radioresistance-associated metastasis.",
+    "first_author": "Shan-Shan Guo",
+    "year": 2019,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32020437",
+    "title": "Phase 1 study of the MDM2 antagonist RO6839921 in patients with acute myeloid leukemia",
+    "first_author": "G. Uy",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-04"
+  },
+  {
+    "pmid": "32156073",
+    "title": "TP53 Mutations in Serum Circulating Cell-Free Tumor DNA As Longitudinal Biomarker for High-Grade Serous Ovarian Cancer",
+    "first_author": "S. Vitale",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "32988919",
+    "title": "Predictive Role of TP53, PIK3CA and MLL2 in ER+ HER2+ Breast Bancer: Biomarker Analysis of Neo-ALL-IN [NCT 01275859]",
+    "first_author": "J. H. Park",
+    "year": 2020,
+    "citations": 3,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-28"
+  },
+  {
+    "pmid": "33060089",
+    "title": "Protocol description of the HOVON 141/VISION trial: a prospective, multicentre, randomised phase II trial of ibrutinib plus venetoclax in patients with creatinine clearance \u226530 mL/min who have relapsed or refractory chronic lymphocytic leukaemia (RR-CLL) with or without TP53 aberrations",
+    "first_author": "M. Levin",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "31734832",
+    "title": "A phase 1 study of the MDM2 antagonist RO6839921, a pegylated prodrug of idasanutlin, in patients with advanced solid tumors",
+    "first_author": "A. A. Abdul Razak",
+    "year": 2019,
+    "citations": 14,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-16"
+  },
+  {
+    "pmid": "31652350",
+    "title": "Oral cancer\u2010associated tertiary lymphoid structures: gene expression profile and prognostic value",
+    "first_author": "K. Li",
+    "year": 2019,
+    "citations": 54,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-08"
+  },
+  {
+    "pmid": "31199501",
+    "title": "Analysis of KRAS, NRAS, BRAF, PIK3CA and TP53 mutations in a large prospective series of locally advanced rectal cancer patients",
+    "first_author": "F. Sclafani",
+    "year": 2019,
+    "citations": 52,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-07-05"
+  },
+  {
+    "pmid": "32690834",
+    "title": "Chemopreventive Synergism between Green Tea Extract and Curcumin in Patients with Potentially Malignant Oral Disorders: A Double-blind, Randomized Preliminary Study.",
+    "first_author": "Mellekatte C Neetha",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "33116181",
+    "title": "Methylation of MGMT promoter does not predict response to temozolomide in patients with glioblastoma in Donostia Hospital",
+    "first_author": "L. Ega\u00f1a",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-28"
+  },
+  {
+    "pmid": "32578873",
+    "title": "In chronic lymphocytic leukaemia, SLAMF1 deregulation is associated with genomic complexity and independently predicts a worse outcome",
+    "first_author": "G. Rigolin",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-24"
+  },
+  {
+    "pmid": "32561500",
+    "title": "Identification of Radioresponsive Genes in Esophageal Cancer from Longitudinal and Single Cell Exome Sequencing.",
+    "first_author": "Ling Yang",
+    "year": 2020,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-16"
+  },
+  {
+    "pmid": "32504186",
+    "title": "Monosomal karyotype and chromosome 17p loss or TP53 mutations in decitabine-treated patients with acute myeloid leukemia",
+    "first_author": "H. Becker",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-06"
+  },
+  {
+    "pmid": "33060632",
+    "title": "Identifying a nasal gene expression signature associated with hyperinflation and treatment response in severe COPD",
+    "first_author": "A. Faiz",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-15"
+  },
+  {
+    "pmid": "33317922",
+    "title": "Predictive and Prognostic Potential of TP53 in Patients With Advanced Non-Small-Cell Lung Cancer Treated With EGFR-TKI: Analysis of a Phase III Randomized Clinical Trial (CTONG 0901).",
+    "first_author": "Xiang-Meng Li",
+    "year": 2020,
+    "citations": 46,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-17"
+  },
+  {
+    "pmid": "32605910",
+    "title": "Circulating Tumor DNA is Prognostic and Potentially Predictive of Eryaspase Efficacy in Second-line in Patients with Advanced Pancreatic Adenocarcinoma",
+    "first_author": "J. Bachet",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-30"
+  },
+  {
+    "pmid": "31537689",
+    "title": "KMT2D mutations and TP53 disruptions are poor prognostic biomarkers in mantle cell lymphoma receiving high-dose therapy: a FIL study",
+    "first_author": "S. Ferrero",
+    "year": 2019,
+    "citations": 121,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-09-19"
+  },
+  {
+    "pmid": "32096887",
+    "title": "Frontline treatment with the combination obinutuzumab \u00b1 chlorambucil for chronic lymphocytic leukemia outside clinical trials: Results of a multinational, multicenter study by ERIC and the Israeli CLL study group",
+    "first_author": "Y. Herishanu",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-25"
+  },
+  {
+    "pmid": "32472610",
+    "title": "Whole genome copy number analysis in search of new prognostic biomarkers in first line treatment of mantle cell lymphoma. A study by the LYSA group",
+    "first_author": "Y. Le Bris",
+    "year": 2020,
+    "citations": 11,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-29"
+  },
+  {
+    "pmid": "32300964",
+    "title": "Regulation of senescence traits by MAPKs",
+    "first_author": "C. Anerillas",
+    "year": 2020,
+    "citations": 126,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32246301",
+    "title": "The roles of MTOR and miRNAs in endothelial cell senescence",
+    "first_author": "Eng-Soon Khor",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-03"
+  },
+  {
+    "pmid": "32219703",
+    "title": "Insulinoma-associated protein 1 (INSM1): a potential biomarker and therapeutic target for neuroendocrine tumors",
+    "first_author": "B. Mahalakshmi",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-03-26"
+  },
+  {
+    "pmid": "31896689",
+    "title": "53BP1: a DSB escort",
+    "first_author": "Zachary Mirman",
+    "year": 2020,
+    "citations": 192,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32080210",
+    "title": "Phase I studies of vorinostat with ixazomib or pazopanib imply a role of antiangiogenesis-based therapy for TP53 mutant malignancies",
+    "first_author": "Yudong Wang",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-20"
+  },
+  {
+    "pmid": "32015491",
+    "title": "Clinical significance of TP53, BIRC3, ATM and MAPK-ERK genes in chronic lymphocytic leukaemia: data from the randomised UK LRF CLL4 trial",
+    "first_author": "S. Blakemore",
+    "year": 2020,
+    "citations": 44,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-03"
+  },
+  {
+    "pmid": "32611648",
+    "title": "A Biomarker-enriched, Randomized Phase II Trial of Adavosertib (AZD1775) Plus Paclitaxel and Carboplatin for Women with Platinum-sensitive TP53-mutant Ovarian Cancer",
+    "first_author": "A. Oza",
+    "year": 2020,
+    "citations": 89,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-01"
+  },
+  {
+    "pmid": "33310207",
+    "title": "Adiponectin paradox as a therapeutic target of the cancer evolvability in aging",
+    "first_author": "Y. Takamatsu",
+    "year": 2020,
+    "citations": 4,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-09"
+  },
+  {
+    "pmid": "32670818",
+    "title": "Silibinin and non-melanoma skin cancers",
+    "first_author": "R. Prasad",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-02-06"
+  },
+  {
+    "pmid": "32512016",
+    "title": "Glycogen synthase kinase (GSK)-3 and the double-strand RNA-dependent kinase, PKR: When two kinases for the common good turn bad",
+    "first_author": "M. Piazzi",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-05"
+  },
+  {
+    "pmid": "32405344",
+    "title": "Role of crocin in several cancer cell lines: An updated review",
+    "first_author": "Ali Veisi",
+    "year": 2020,
+    "citations": 48,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "32252351",
+    "title": "Metabolic Heterogeneity of Cancer Cells: An Interplay between HIF-1, GLUTs, and AMPK",
+    "first_author": "N. Moldogazieva",
+    "year": 2020,
+    "citations": 133,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "32212178",
+    "title": "Multiple myeloma: 2020 update on diagnosis, risk\u2010stratification and management",
+    "first_author": "S. Rajkumar",
+    "year": 2020,
+    "citations": 647,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-24"
+  },
+  {
+    "pmid": "31954487",
+    "title": "Advances in molecular classification and precision oncology in hepatocellular carcinoma.",
+    "first_author": "S. Rebouissou",
+    "year": 2020,
+    "citations": 421,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-01"
+  },
+  {
+    "pmid": "33207722",
+    "title": "Emerging Evidences for an Implication of the Neurodegeneration-Associated Protein TAU in Cancer",
+    "first_author": "S. Papin",
+    "year": 2020,
+    "citations": 36,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-11-01"
+  },
+  {
+    "pmid": "32919021",
+    "title": "Role of the GH-IGF1 system in progression of cancer",
+    "first_author": "H. Werner",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-09-09"
+  },
+  {
+    "pmid": "32790161",
+    "title": "Diverse functions of deadenylases in DNA damage response and genomic integrity",
+    "first_author": "Yong-Bin Yan",
+    "year": 2020,
+    "citations": 5,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-13"
+  },
+  {
+    "pmid": "32766139",
+    "title": "Update on the Biology, Management, and Treatment of Small Cell Lung Cancer (SCLC)",
+    "first_author": "A. Saltos",
+    "year": 2020,
+    "citations": 114,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-16"
+  },
+  {
+    "pmid": "32688199",
+    "title": "Structure-activity relationships of Wee1 inhibitors: A review.",
+    "first_author": "Xingkai Du",
+    "year": 2020,
+    "citations": 27,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-07-10"
+  },
+  {
+    "pmid": "32274755",
+    "title": "Divergent Modulation of Proteostasis in Prostate Cancer.",
+    "first_author": "P. Ballar Kirmizibayrak",
+    "year": 2020,
+    "citations": 14,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "31933109",
+    "title": "Understanding the role of key amino acids in regulation of proline dehydrogenase/proline oxidase (prodh/pox)-dependent apoptosis/autophagy as an approach to targeted cancer therapy",
+    "first_author": "T. Y. L. Huynh",
+    "year": 2020,
+    "citations": 46,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-01-13"
+  },
+  {
+    "pmid": "31770191",
+    "title": "Non-coding RNA and Lung Cancer Progression.",
+    "first_author": "I. Adekunle",
+    "year": 2019,
+    "citations": 25,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-15"
+  },
+  {
+    "pmid": "31583690",
+    "title": "Sex\u2010specificity in lung cancer risk",
+    "first_author": "Claudia Stapelfeld",
+    "year": 2019,
+    "citations": 160,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-01"
+  },
+  {
+    "pmid": "32892147",
+    "title": "Surmounting cancer drug resistance: New insights from the perspective of N6-methyladenosine RNA modification.",
+    "first_author": "Bowen Li",
+    "year": 2020,
+    "citations": 141,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-20"
+  },
+  {
+    "pmid": "32543361",
+    "title": "Understanding the Monoclonal Antibody involvement in Targeting the Activation of Tumor Suppressor Genes.",
+    "first_author": "R. Mishra",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-16"
+  },
+  {
+    "pmid": "32475520",
+    "title": "Oral and intestinal bacterial exotoxins: Potential linked to carcinogenesis.",
+    "first_author": "Matthew Silbergleit",
+    "year": 2020,
+    "citations": 29,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": null
+  },
+  {
+    "pmid": "32304390",
+    "title": "Pediatric adrenocortical tumor - review and management update.",
+    "first_author": "V. Brondani",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-16"
+  },
+  {
+    "pmid": "30975541",
+    "title": "Therapeutic potential of hesperidin and its aglycone hesperetin: Cell cycle regulation and apoptosis induction in cancer models.",
+    "first_author": "J. F. D. Ferreira de Oliveira",
+    "year": 2020,
+    "citations": 98,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-07-15"
+  },
+  {
+    "pmid": "34795999",
+    "title": "Apoptosis and Cell Proliferation Markers in Inflammatory-Fibroproliferative Diseases of the Vessel Wall (Review)",
+    "first_author": "E. Klimentova",
+    "year": 2020,
+    "citations": 12,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "33227796",
+    "title": "Radiological and Immunostaining Characteristics of H3.3 G34R-Mutant Glioma: A Report of 3 Cases and Review of the Literature",
+    "first_author": "S. Onishi",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-23"
+  },
+  {
+    "pmid": "31969092",
+    "title": "Chemosensitisation of Therapy Resistant Tumors: Targeting Multiple cell Signaling pathways by Lupeol, A Pentacyclic Triterpene.",
+    "first_author": "S. Maurya",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-22"
+  },
+  {
+    "pmid": "31836451",
+    "title": "Current perspectives on targeting PIM kinases to overcome mechanisms of drug resistance and immune evasion in cancer.",
+    "first_author": "T. Malone",
+    "year": 2019,
+    "citations": 27,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-12-10"
+  },
+  {
+    "pmid": "32584426",
+    "title": "Biomarker-driven phase 2 umbrella trial study for patients with recurrent small cell lung cancer failing platinum-based chemotherapy.",
+    "first_author": "Sehhoon Park",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-25"
+  },
+  {
+    "pmid": "33329391",
+    "title": "Oncology and Pharmacogenomics Insights in Polycystic Ovary Syndrome: An Integrative Analysis",
+    "first_author": "V. Yumiceba",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-26"
+  },
+  {
+    "pmid": "33299640",
+    "title": "Biological and clinical aspects of HPV-related cancers",
+    "first_author": "Klaudia Szymonowicz",
+    "year": 2020,
+    "citations": 289,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-15"
+  },
+  {
+    "pmid": "33202302",
+    "title": "Hydrogen sulfide and DNA repair",
+    "first_author": "R. Shackelford",
+    "year": 2020,
+    "citations": 32,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-10-28"
+  },
+  {
+    "pmid": "32805342",
+    "title": "The Neurotoxicity of Trichothecenes T-2 Toxin and Deoxynivalenol (DON): Current Status and Future Perspectives.",
+    "first_author": "Jiajia Zhang",
+    "year": 2020,
+    "citations": 69,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-08-14"
+  },
+  {
+    "pmid": "32443845",
+    "title": "Role and Mechanisms of RAGE-Ligand Complexes and RAGE-Inhibitors in Cancer Progression",
+    "first_author": "A. El\u2011Far",
+    "year": 2020,
+    "citations": 59,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32351178",
+    "title": "Nigella sativa and cancer: A review focusing on breast cancer, inhibition of metastasis and enhancement of Natural Killer cell cytotoxicity.",
+    "first_author": "T. Korak",
+    "year": 2020,
+    "citations": 20,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-30"
+  },
+  {
+    "pmid": "32297580",
+    "title": "Thymoquinone, an Active Compound of Nigella Sativa: Role in Prevention and Treatment of Cancer.",
+    "first_author": "S. Almatroodi",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-15"
+  },
+  {
+    "pmid": "33590566",
+    "title": "Regulation of autophagy by high\u2010 and low\u2010risk human papillomaviruses",
+    "first_author": "Ana Karina Aranda-Rivera",
+    "year": 2020,
+    "citations": 22,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-09-17"
+  },
+  {
+    "pmid": "33189832",
+    "title": "The key role of Warburg effect in SARS-CoV-2 replication and associated inflammatory response",
+    "first_author": "P. Icard",
+    "year": 2020,
+    "citations": 122,
+    "fields": [
+      "Chemistry"
+    ],
+    "publication_date": "2020-11-12"
+  },
+  {
+    "pmid": "32505665",
+    "title": "Doxorubicin chemotherapy-induced \"chemo-brain\": Meta-analysis.",
+    "first_author": "Sarah Eide",
+    "year": 2020,
+    "citations": 76,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-04"
+  },
+  {
+    "pmid": "31804169",
+    "title": "Nickel and Oxidative stress: Cell Signaling Mechanisms and Protective Role of Vitamin C.",
+    "first_author": "Swastika N. Das",
+    "year": 2019,
+    "citations": 34,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2019-12-05"
+  },
+  {
+    "pmid": "31538344",
+    "title": "The emerging roles of hnRNPK",
+    "first_author": "Ziyi Wang",
+    "year": 2020,
+    "citations": 119,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-03-01"
+  },
+  {
+    "pmid": "33261128",
+    "title": "Targeting Casein Kinase 1 (CK1) in Hematological Cancers",
+    "first_author": "P. Janovska",
+    "year": 2020,
+    "citations": 51,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-27"
+  },
+  {
+    "pmid": "32470157",
+    "title": "Hepatitis C virus alternative reading frame protein (ARFP): Production, features, and pathogenesis",
+    "first_author": "Mahdi Mohamadi",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-29"
+  },
+  {
+    "pmid": "32007572",
+    "title": "Clinico-pathological peculiarities of human papilloma virus driven head and neck squamous cell carcinoma: A comprehensive update.",
+    "first_author": "K. Devaraja",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-01-30"
+  },
+  {
+    "pmid": "33105719",
+    "title": "Curcumin\u2019s Beneficial Effects on Neuroblastoma: Mechanisms, Challenges, and Potential Solutions",
+    "first_author": "Kevin Zhai",
+    "year": 2020,
+    "citations": 58,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-22"
+  },
+  {
+    "pmid": "32971832",
+    "title": "Emerging Roles for the INK4a/ARF (CDKN2A) Locus in Adipose Tissue: Implications for Obesity and Type 2 Diabetes",
+    "first_author": "Yasmina Kahoul",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-09-01"
+  },
+  {
+    "pmid": "32507359",
+    "title": "Adrenocortical tumorigenesis: Lessons from genetics.",
+    "first_author": "C. Kamilaris",
+    "year": 2020,
+    "citations": 45,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "32443727",
+    "title": "IGFBP-3/IGFBP-3 Receptor System as an Anti-Tumor and Anti-Metastatic Signaling in Cancer",
+    "first_author": "Q. Cai",
+    "year": 2020,
+    "citations": 98,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-01"
+  },
+  {
+    "pmid": "31963204",
+    "title": "Mechanistic Pathways and Molecular Targets of Plant-Derived Anticancer ent-Kaurane Diterpenes",
+    "first_author": "Md Shahid Sarwar",
+    "year": 2020,
+    "citations": 42,
+    "fields": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "publication_date": "2020-01-01"
+  },
+  {
+    "pmid": "33309958",
+    "title": "KANK family proteins in cancer.",
+    "first_author": "Ana Tadijan",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-12-10"
+  },
+  {
+    "pmid": "32795537",
+    "title": "Metabolic regulation in HPV associated head and neck squamous cell carcinoma.",
+    "first_author": "Vaishali Chandel",
+    "year": 2020,
+    "citations": 26,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-11"
+  },
+  {
+    "pmid": "32604861",
+    "title": "Targeting Cardiac Stem Cell Senescence to Treat Cardiac Aging and Disease",
+    "first_author": "E. Cianflone",
+    "year": 2020,
+    "citations": 91,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-01"
+  },
+  {
+    "pmid": "32586780",
+    "title": "Immortalized normal human lung epithelial cell models for studying lung cancer biology.",
+    "first_author": "Mitsuo Sato",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-06-22"
+  },
+  {
+    "pmid": "32375866",
+    "title": "Novel therapeutic strategies targeting telomere maintenance mechanisms in high-risk neuroblastoma",
+    "first_author": "Sally L. George",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-06"
+  },
+  {
+    "pmid": "33245949",
+    "title": "A case-control study to identify molecular risk factors for local recurrence in young breast cancer patients.",
+    "first_author": "S. Bosma",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-24"
+  },
+  {
+    "pmid": "33221454",
+    "title": "The double-edged sword of H19 lncRNA: Insights into cancer therapy.",
+    "first_author": "Yun Wei Shermane Lim",
+    "year": 2020,
+    "citations": 70,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-11-19"
+  },
+  {
+    "pmid": "32737406",
+    "title": "Expression profiling of human milk derived exosomal microRNAs and their targets in HIV-1 infected mothers",
+    "first_author": "M. A. Zahoor",
+    "year": 2020,
+    "citations": 17,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-31"
+  },
+  {
+    "pmid": "32451767",
+    "title": "Usefulness of fluorescence visualization-guided surgery for early-stage tongue squamous cell carcinoma compared to iodine vital staining",
+    "first_author": "Yusuke Ikeda",
+    "year": 2020,
+    "citations": 10,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-25"
+  },
+  {
+    "pmid": "32298067",
+    "title": "Biomarkers predicting oncological outcomes of high-risk non-muscle-invasive bladder cancer.",
+    "first_author": "L. Afferi",
+    "year": 2020,
+    "citations": 9,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-04-16"
+  },
+  {
+    "pmid": "31891666",
+    "title": "Oxidative Stress and Cancer Development: Are Noncoding RNAs the Missing Links?",
+    "first_author": "Leonard Clinton D\u2019souza",
+    "year": 2019,
+    "citations": 31,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2019-12-31"
+  },
+  {
+    "pmid": "32853962",
+    "title": "Primary squamous cell carcinoma of thyroid with a novel BRAF mutation and High PDL-1 expression: A case report with treatment implications and review of literature.",
+    "first_author": "M. Torrez",
+    "year": 2020,
+    "citations": 13,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-30"
+  },
+  {
+    "pmid": "33643817",
+    "title": "Development of small-molecule tropomyosin receptor kinase (TRK) inhibitors for NTRK fusion cancers",
+    "first_author": "Tingting Jiang",
+    "year": 2020,
+    "citations": 107,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-23"
+  },
+  {
+    "pmid": "32510664",
+    "title": "A Phase II Single Arm Pilot Study of the CHK1 Inhibitor Prexasertib (LY2606368) in BRCA Wild-Type, Advanced Triple-Negative Breast Cancer.",
+    "first_author": "M. Gatti-Mays",
+    "year": 2020,
+    "citations": 49,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-08"
+  },
+  {
+    "pmid": "33067577",
+    "title": "DYRK2 controls a key regulatory network in chronic myeloid leukemia stem cells",
+    "first_author": "C. Park",
+    "year": 2020,
+    "citations": 6,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-10-01"
+  },
+  {
+    "pmid": "32410110",
+    "title": "Prognostic Value of L-Type Amino Acid Transporter 1 (LAT1) in Various Cancers: A Meta-Analysis",
+    "first_author": "Chuanmeng Zhang",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-14"
+  },
+  {
+    "pmid": "32301049",
+    "title": "Applying Antibodies Inside Cells: Principles and Recent Advances in Neurobiology, Virology and Oncology",
+    "first_author": "Congcong Zhang",
+    "year": 2020,
+    "citations": 25,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-04-16"
+  },
+  {
+    "pmid": "32272770",
+    "title": "Role of DNA Damage Response in Suppressing Malignant Progression of Chronic Myeloid Leukemia and Polycythemia Vera: Impact of Different Oncogenes",
+    "first_author": "J. Stetka",
+    "year": 2020,
+    "citations": 16,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-04-01"
+  },
+  {
+    "pmid": "33334813",
+    "title": "Cancer-Associated Neurogenesis and Nerve-Cancer Cross-talk",
+    "first_author": "Deborah A. Silverman",
+    "year": 2020,
+    "citations": 151,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-17"
+  },
+  {
+    "pmid": "32654197",
+    "title": "Comprehensive clinicopathological and molecular analysis of primary malignant melanoma of the oesophagus",
+    "first_author": "Sho Tsuyama",
+    "year": 2020,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-11"
+  },
+  {
+    "pmid": "32381512",
+    "title": "Improving response to progestin treatment of low-grade endometrial cancer",
+    "first_author": "E. Baxter",
+    "year": 2020,
+    "citations": 24,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-05-06"
+  },
+  {
+    "pmid": "31976798",
+    "title": "The role of radiation induced oxidative stress as a regulator of radio-adaptive responses",
+    "first_author": "M. Sisakht",
+    "year": 2020,
+    "citations": 50,
+    "fields": [
+      "Medicine",
+      "Materials Science"
+    ],
+    "publication_date": "2020-01-24"
+  },
+  {
+    "pmid": "31778310",
+    "title": "A novel gravity-induced blood flow restriction model augments ACC phosphorylation and PGC-1\u03b1 mRNA in human skeletal muscle following aerobic exercise: A randomized crossover study.",
+    "first_author": "N. Preobrazenski",
+    "year": 2019,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2019-11-28"
+  },
+  {
+    "pmid": "32820838",
+    "title": "Achieving energy balance with a high\u2010fat meal does not enhance skeletal muscle adaptation and impairs glycaemic response in a sleep\u2010low training model",
+    "first_author": "J. Areta",
+    "year": 2020,
+    "citations": 15,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-21"
+  },
+  {
+    "pmid": "32683537",
+    "title": "Coexisting well-differentiated and anaplastic thyroid carcinoma in the same primary resection specimen: immunophenotypic and genetic comparison of the two components in a consecutive series of 13 cases and a review of the literature",
+    "first_author": "M. Ragazzi",
+    "year": 2020,
+    "citations": 33,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-07-18"
+  },
+  {
+    "pmid": "32441029",
+    "title": "Photoprotective Properties of Vitamin D and Lumisterol Hydroxyderivatives",
+    "first_author": "A. Slominski",
+    "year": 2020,
+    "citations": 134,
+    "fields": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "publication_date": "2020-05-22"
+  },
+  {
+    "pmid": "32723508",
+    "title": "MiRNAs profile as biomarkers of nutritional therapy for the prevention of type 2 diabetes mellitus: From the CORDIOPREV study.",
+    "first_author": "Rosa Jim\u00e9nez-Lucena",
+    "year": 2020,
+    "citations": 28,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-07-15"
+  },
+  {
+    "pmid": "32235153",
+    "title": "Report From the International Society of Urological Pathology (ISUP) Consultation Conference on Molecular Pathology of Urogenital Cancers V: Recommendations on the Use of Immunohistochemical and Molecular Biomarkers in Penile Cancer.",
+    "first_author": "S. Canete-Portillo",
+    "year": 2020,
+    "citations": 21,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-03-31"
+  },
+  {
+    "pmid": "33333642",
+    "title": "[Pulmonary mucosa-associated lymphoid tissue lymphoma concurrent with lung squamous cell carcinoma: a case report and literature review].",
+    "first_author": "C. Zhang",
+    "year": 2020,
+    "citations": 1,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-12-12"
+  },
+  {
+    "pmid": "32519351",
+    "title": "Clinical outcome and prognostic factors of patients with Richter syndrome: real\u2010world study of the Spanish Chronic Lymphocytic Leukemia Study Group (GELLC)",
+    "first_author": "P. Abrisqueta",
+    "year": 2020,
+    "citations": 48,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-06-09"
+  },
+  {
+    "pmid": "32735836",
+    "title": "Safety and activity of selinexor in patients with myelodysplastic syndromes or oligoblastic acute myeloid leukaemia refractory to hypomethylating agents: a single-centre, single-arm, phase 2 trial.",
+    "first_author": "Justin Taylor",
+    "year": 2020,
+    "citations": 18,
+    "fields": [
+      "Medicine"
+    ],
+    "publication_date": "2020-08-01"
+  },
+  {
+    "pmid": "32182845",
+    "title": "The Determination of HIV-1 RT Mutation Rate, Its Possible Allosteric Effects, and Its Implications on Drug Resistance",
+    "first_author": "J. Yeo",
+    "year": 2020,
+    "citations": 34,
+    "fields": [
+      "Biology",
+      "Medicine"
+    ],
+    "publication_date": "2020-02-07"
+  },
+  {
+    "pmid": "32401642",
+    "title": "Autophagy in the physiological endometrium and cancer",
+    "first_author": "Laura Devis-Jauregui",
+    "year": 2020,
+    "citations": 164,
+    "fields": [
+      "Medicine",
+      "Biology"
+    ],
+    "publication_date": "2020-05-13"
+  }
+]
