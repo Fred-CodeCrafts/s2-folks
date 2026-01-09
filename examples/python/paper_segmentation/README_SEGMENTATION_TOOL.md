@@ -1,71 +1,22 @@
-# Paper Segmentation Tool - Usage Guide
+# Research Paper Segmentation Tool
 
-## Overview
+This script is a local research paper segmentation tool that works on a JSON dataset of papers (like the one produced by your Semantic Scholar fetcher). Here's what it does step by step:
 
-The **Paper Segmentation Tool** is a modular, configurable Python script that segments research papers into three influence-based layers based on citation counts:
-- **Foundational**: Highly cited, classic papers (top ~20%)
-- **Intermediate**: Moderately cited, important extensions (middle ~20%)
-- **Frontier**: Recent, innovative papers with lower citations (bottom ~60%)
+## 1. Purpose
 
-## Features
+Segments research papers into three influence-based layers based on citation counts:
 
-✅ **User-configurable citation thresholds**  
-✅ **Flexible input** - Read from any JSON file or auto-generate examples  
-✅ **Multiple output formats** - JSON and formatted tables  
-✅ **Optional field grouping** - Organize papers by discipline  
-✅ **Automatic sorting** - By citation count within layers  
-✅ **Modular design** - Easy to extend and customize  
-✅ **No hardcoded dependencies** - Works standalone  
+- **Foundational** – top ~20% most cited
+- **Intermediate** – middle ~20%
+- **Frontier** – bottom ~60%
 
-## Installation
+Groups papers by primary field of study for easier analysis.
 
-No external dependencies required! Works with standard Python 3.6+
+Saves a structured JSON file with segmentation, counts, and metadata.
 
-```bash
-# Just copy the script and run
-python paper_segmentation_tool.py
-```
+## 2. Input
 
-## Quick Start
-
-### 1. Run with Example Data
-```bash
-python paper_segmentation_tool.py
-```
-This creates an example dataset and outputs both JSON and table formats.
-
-### 2. Use Your Own Data
-```bash
-python paper_segmentation_tool.py --input papers_data.json
-```
-
-### 3. Custom Thresholds
-```bash
-python paper_segmentation_tool.py --input papers_data.json \
-    --foundational-threshold 100 \
-    --intermediate-threshold 50
-```
-
-### 4. Table Output Only
-```bash
-python paper_segmentation_tool.py --output-format table
-```
-
-## Command-Line Options
-
-| Option | Description | Default |
-|--------|-------------|---------|
-| `-i, --input` | Input JSON file path | None (creates example) |
-| `-o, --output` | Output JSON file path | `segmented_papers_output.json` |
-| `--foundational-threshold` | Min citations for foundational layer | Auto (80th percentile) |
-| `--intermediate-threshold` | Min citations for intermediate layer | Auto (60th percentile) |
-| `--no-group-by-field` | Disable field grouping | False |
-| `--no-sort` | Disable citation sorting | False |
-| `--output-format` | Output format: `json`, `table`, or `both` | `both` |
-
-## Input Format
-
-Your input JSON should be an array of paper objects:
+A JSON file called `papers_data.json` with this format:
 
 ```json
 [
@@ -75,47 +26,39 @@ Your input JSON should be an array of paper objects:
     "year": 2020,
     "fields": ["AI", "ML"],
     "first_author": "Author Name"
-  }
+  },
+  ...
 ]
 ```
 
-**Required fields:**
-- `title` (string)
-- `citations` (integer)
+Usually this JSON comes from the Semantic Scholar fetcher.
 
-**Optional fields:**
-- `year` (integer)
-- `fields` (array of strings or single string)
-- `first_author` (string)
-- Any other metadata you want to preserve
+## 3. Processing Steps
 
-## Output Format
+1. Load papers from `papers_data.json`.
+2. Calculate citation percentiles:
+   - 80th percentile → Foundational threshold
+   - 60th percentile → Intermediate threshold
+3. Segment papers into three layers using these thresholds.
+4. Group papers by field:
+   - Uses the first field as "primary field"
+   - Sorts papers in each field by citation count descending.
+5. Generate output structure with metadata and grouped papers.
 
-### JSON Output Structure
+## 4. Output
+
+Saves a JSON file: `segmented_papers.json` with this structure:
 
 ```json
 {
   "metadata": {
     "total_papers": 100,
-    "citation_range": {"min": 0, "max": 500},
-    "thresholds": {
-      "foundational": 75,
-      "intermediate": 40
-    },
-    "layer_counts": {
-      "foundational": 20,
-      "intermediate": 20,
-      "frontier": 60
-    }
+    "citation_range": {"min": 5, "max": 50000},
+    "percentiles": {"80th": 40000, "60th": 150},
+    "layer_counts": {"foundational": 20, "intermediate": 20, "frontier": 60}
   },
   "foundational": {
-    "AI": [
-      {
-        "title": "...",
-        "citations": 500,
-        "year": 2017
-      }
-    ],
+    "AI": [{"title": "...", "citations": 50000, "year": 2017, "field": ["AI", "ML"]}],
     "ML": [...]
   },
   "intermediate": {...},
@@ -123,174 +66,51 @@ Your input JSON should be an array of paper objects:
 }
 ```
 
-### Table Output
+Prints summary tables to the console:
 
-The table format shows:
-- Summary statistics
-- Papers grouped by layer and field
-- Top papers in each category
-- Citation counts and years
+- Citation statistics
+- Number of papers in each layer
+- Number of papers per field in each layer
 
-## Usage Examples
+### Example console output:
 
-### Example 1: Basic Usage with Real Data
-```bash
-# Use the p53 dataset from the repository
-python paper_segmentation_tool.py \
-    --input papers_data.json \
-    --output p53_segmented.json
+```
+Loaded 100 papers
+
+Citation Statistics:
+  Range: 5 - 50000
+  80th percentile (Foundational threshold): 40000
+  60th percentile (Intermediate threshold): 150
+
+Segmentation Results:
+  Foundational (top ~20%): 20 papers
+  Intermediate (middle ~20%): 20 papers
+  Frontier (bottom ~60%): 60 papers
+
+Field Distribution by Layer:
+Foundational:
+  AI: 10 papers
+  ML: 5 papers
+  NLP: 5 papers
+Intermediate:
+  ML: 12 papers
+  NLP: 8 papers
+Frontier:
+  AI: 20 papers
+  ML: 15 papers
+  Quantum Computing: 25 papers
 ```
 
-### Example 2: Custom Thresholds
-```bash
-# Set specific citation cutoffs
-python paper_segmentation_tool.py \
-    --input papers_data.json \
-    --foundational-threshold 200 \
-    --intermediate-threshold 80 \
-    --output custom_segmented.json
-```
+## 5. Key Features
 
-### Example 3: Flat List (No Field Grouping)
-```bash
-# Disable field grouping for simple lists
-python paper_segmentation_tool.py \
-    --input papers_data.json \
-    --no-group-by-field \
-    --output flat_segmented.json
-```
+✅ Automatic percentile-based thresholds – no need to manually pick citation cutoffs
 
-### Example 4: Table View Only
-```bash
-# Quick visualization without saving JSON
-python paper_segmentation_tool.py \
-    --input papers_data.json \
-    --output-format table
-```
+✅ Three-layer segmentation – foundational, intermediate, frontier
 
-### Example 5: Combine with Existing Data
-```bash
-# Process the existing segmented data
-python paper_segmentation_tool.py \
-    --input papers_data.json \
-    --output new_segmentation.json \
-    --foundational-threshold 100 \
-    --intermediate-threshold 50 \
-    --output-format both
-```
+✅ Field grouping – groups papers by primary research field
 
-## Customization & Extension
+✅ Citation sorting – papers in each field are sorted by citations
 
-The tool is designed to be modular. Here's how to extend it:
+✅ JSON output – easy to use in other tools or portfolio projects
 
-### Add New Output Formats
-
-```python
-def export_to_csv(self, output: Dict[str, Any], filename: str):
-    """Add CSV export capability"""
-    # Your implementation here
-    pass
-```
-
-### Modify Segmentation Logic
-
-```python
-def segment_papers(self, papers: List[Dict[str, Any]]):
-    # Change to quartiles instead of percentiles
-    # Or use machine learning clustering
-    pass
-```
-
-### Add New Metadata Fields
-
-The tool preserves any extra fields in your input JSON, so just add them:
-
-```json
-{
-  "title": "...",
-  "citations": 100,
-  "doi": "10.xxx/xxx",
-  "abstract": "...",
-  "custom_score": 4.5
-}
-```
-
-### Custom Sorting
-
-```python
-# Sort by year instead of citations
-tool = PaperSegmentationTool(sort_by_citations=False)
-# Then modify the sorting in group_by_fields() method
-```
-
-## Files Created
-
-After running the tool, you'll have:
-
-1. **`paper_segmentation_tool.py`** - Main executable script
-2. **`example_output.json`** - Sample output with demo data
-3. **`segmented_papers_output.json`** - Your actual output (customizable name)
-4. **`README_SEGMENTATION_TOOL.md`** - This documentation
-
-## Troubleshooting
-
-**Problem**: `FileNotFoundError`  
-**Solution**: Check the input file path. Use absolute paths if needed.
-
-**Problem**: `JSONDecodeError`  
-**Solution**: Validate your input JSON format. Each paper must be in an array.
-
-**Problem**: Empty output  
-**Solution**: Check if papers have the `citations` field. Default is 0 if missing.
-
-**Problem**: All papers in one layer  
-**Solution**: Adjust thresholds manually or check citation distribution.
-
-## Advanced: Programmatic Usage
-
-You can also use the tool as a Python module:
-
-```python
-from paper_segmentation_tool import PaperSegmentationTool
-
-# Create tool instance
-tool = PaperSegmentationTool(
-    foundational_threshold=100,
-    intermediate_threshold=50,
-    group_by_field=True,
-    sort_by_citations=True
-)
-
-# Load papers
-papers = tool.load_papers('my_papers.json')
-
-# Generate output
-output = tool.create_output(papers)
-
-# Save
-tool.save_json(output, 'result.json')
-tool.print_table(output)
-```
-
-## Contributing
-
-The tool is designed to be easily extensible. Future enhancements could include:
-
-- [ ] Support for multiple citation metrics (h-index, impact factor, etc.)
-- [ ] Automatic percentile calculation with different algorithms
-- [ ] Export to CSV, Excel, HTML
-- [ ] Visualization (charts, graphs)
-- [ ] Multi-tier segmentation (more than 3 layers)
-- [ ] Machine learning-based clustering
-
-## License
-
-This tool is part of the s2-folks examples repository.
-
----
-
-**Questions or Issues?**  
-Check the inline documentation in `paper_segmentation_tool.py` or run:
-```bash
-python paper_segmentation_tool.py --help
-```
+✅ Console summary – shows overall counts and field distribution
